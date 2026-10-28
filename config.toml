@@ -1,7 +1,7 @@
 # Hugo Site Configuration
 baseURL = "https://josediegogf03.github.io/"
 languageCode = "en-us"
-title = "Felipe Cordero"
+title = "José Diego González F."
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
     [languages.en.params]
       tagline = "Head of Technology at Fireraven. Securing every AI agent."
       hero_description = "Head of Technology at Fireraven: hands-on tech leadership for FireGuard and RedRaven, with real-time policy enforcement, red-teaming, and auditor-ready compliance for LLM agents. I bridge CEO and product vision with AI systems engineering so enterprises can adopt agents safely and at scale."
-      hero_location = "Montréal, Canada"
+      hero_location = "Mexico City, Mexico"
       resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
       collab_tags = [
         "Tech leadership & architecture",
