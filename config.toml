@@ -1,7 +1,7 @@
 # Hugo Site Configuration
 baseURL = "https://josediegogf03.github.io/"
 languageCode = "en-us"
-title = "José Diego González F."
+title = "José Diego González"
 theme = "careercanvas"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -65,12 +65,12 @@ defaultContentLanguageInSubdir = false
       disable = true
 
 [params]
-name = "José Diego González F."
+name = "José Diego González"
 firstName = "José Diego"
-lastName = "González Fernández"
+lastName = "González"
 email = "josediego.gf03@gmail.com"
 profile_image = "/images/felipe-cordero-profile.jpg"
-author = "José Diego González Fernández"
+author = "José Diego González"
 
 og_image = "images/felipecordero-og.png"
 
@@ -84,7 +84,7 @@ github_text = "github.com/josediegogf03"
 calendly_url = "https://calendly.com/correofelipecordero/30min"
 calendly_height = "700px"
 
-copyright = "José Diego González Fernández"
+copyright = "José Diego González"
 
 
 resume_url_en = "/files/Felipe_Cordero_CV_ENG.pdf"
