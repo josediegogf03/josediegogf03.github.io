@@ -65,21 +65,21 @@ defaultContentLanguageInSubdir = false
       disable = true
 
 [params]
-name = "Felipe Cordero"
-firstName = "Felipe"
-lastName = "Cordero"
-email = "mail@felipecordero.com"
+name = "José Diego González Fernández"
+firstName = "José Diego"
+lastName = "González Fernández"
+email = "josediego.gf03@gmail.com"
 profile_image = "/images/felipe-cordero-profile.jpg"
-author = "Felipe Cordero"
+author = "José Diego González Fernández"
 
 og_image = "images/felipecordero-og.png"
 
 description = "Head of Technology at Fireraven. Hands-on tech leadership for FireGuard and RedRaven: guardrails, security, and compliance for LLM agents, bridging product vision with AI systems engineering."
 
-linkedin_url = "https://www.linkedin.com/in/felipe-cordero-osorio"
-linkedin_text = "linkedin.com/in/felipe-cordero-osorio"
-github_url = "https://github.com/felipecordero"
-github_text = "github.com/felipecordero"
+linkedin_url = "https://www.linkedin.com/in/josediegogf03/"
+linkedin_text = "linkedin.com/in/josediegogf03/"
+github_url = "https://github.com/josediegogf03"
+github_text = "github.com/josediegogf03"
 
 calendly_url = "https://calendly.com/correofelipecordero/30min"
 calendly_height = "700px"
@@ -97,11 +97,11 @@ pexelsapikey = ""
 
 [[params.social]]
 icon = "linkedin-in"
-url = "https://www.linkedin.com/in/felipe-cordero-osorio/"
+url = "https://www.linkedin.com/in/josediegogf03/"
 
 [[params.social]]
 icon = "github"
-url = "https://github.com/felipecordero"
+url = "https://github.com/josediegogf03"
 
 sectionPagesMenu = 'main'
 
