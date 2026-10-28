@@ -1,5 +1,5 @@
 # Hugo Site Configuration
-baseURL = "https://felipecordero.com"
+baseURL = "https://josediegogf03.github.io/"
 languageCode = "en-us"
 title = "Felipe Cordero"
 theme = "careercanvas"
@@ -58,6 +58,11 @@ defaultContentLanguageInSubdir = false
 
 [build]
   writeStats = true
+
+[security]
+  [security.node]
+    [security.node.permissions]
+      disable = true
 
 [params]
 name = "Felipe Cordero"
