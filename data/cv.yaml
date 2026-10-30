@@ -1,0 +1,80 @@
+name: "José Diego González Fernández"
+role: "Mechanical Engineering"
+profile: "Mechanical Engineering student with experience in mechanical design, structural FEA simulation, embedded systems, and telemetry: 3D CAD modeling and assembly in SolidWorks, C/C++ firmware for ESP32 with MQTT, PCB design in Altium, and data processing in Python. Team Captain of a 30-member team focused on developing an energy efficient EV."
+education:
+  - degree: "B.Sc. Mechanical Engineering"
+    org: "Tecnológico de Monterrey (ITESM)"
+    dates: "August 2024 – June 2028"
+    place: "Mexico City, MX"
+    bullets:
+      - "Merit Scholarship (60%)"
+      - "GPA: 96/100"
+experience:
+  - role: "Team Captain, Telemetry Leader & Race Engineer"
+    org: "EcoVolt CCM EV Racing Team (Shell Eco-Marathon)"
+    dates: "October 2024 – Ongoing"
+    place: "Mexico City, MX"
+    bullets:
+      - "Led a ∼30-member team focused on developing an energy efficient EV, achieving ∼200 km/kWh at a speed of ∼28 km/h."
+      - "Contributed to the manufacturing and assembly of a 100% carbon fiber monocoque chassis, optimizing structural rigidity and overall weight reduction."
+      - "Engineered and deployed a real-time telemetry system to collect and analyze vehicle data, including: GPS, Accelerometer, Gyroscope, Current & Voltage Sensor, Hall-Sensors for speed and throttle/brake inputs."
+      - "Co-designed 4 PCBs in Altium Designer: 3 Telemetry PCBs (including an energy reserve), 1 Hall-Sensors PCB for the motor."
+  - role: "Visiting Student - Micro & Nano fabrication"
+    org: "Massachusetts Institute of Technology (MIT.nano Lab)"
+    dates: "July 2026 (40 hours)"
+    place: "Cambridge, USA"
+    bullets:
+      - "Photovoltaic Cell Microfabrication: Explored the cleanroom fabrication process for p-n junction silicon solar cells, performing film deposition, dry etching, metallization, and I-V characterization."
+      - "MEMS & Microfluidic Devices: Fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography."
+publications:
+  - title: "Real-Time Telemetry and Computational Intelligence Pipeline for Energy-Efficient Driving of an Electric Eco-Marathon Vehicle"
+    venue: "IEEE SAIBOT 2026 (Latin American School on Computational Intelligence and Robotics) – submitted"
+    dates: "September 2026"
+    authors: "P. L. Ruíz-Servín, J.D. González-Fernández, A. Flores-Mendoza, J. Izquierdo-Reyes"
+volunteering:
+  - role: "Mentoring"
+    org: "Tecnológico de Monterrey (ITESM)"
+    dates: "August 2023 – Ongoing"
+    bullets:
+      - "Provided comprehensive tutoring for IB Mathematics and first-year university students, helping students clarify complex concepts, develop effective study strategies, and improve exam readiness."
+skills:
+  - group: "Programming"
+    items: ["Python", "C/C++", "LabVIEW"]
+  - group: "Frameworks / IDEs"
+    items: ["Git", "Visual Studio Code", "PlatformIO"]
+  - group: "Design & Simulation"
+    items: ["SolidWorks CAD/Simulation", "OnShape", "Fusion CAM", "MATLAB/Simulink"]
+  - group: "Manufacturing & Prototyping"
+    items: ["3D Printing", "Lathe", "Milling", "CNC", "Welding", "SMD/THT soldering"]
+languages:
+  - {name: "Spanish", level: "Native"}
+  - {name: "English", level: "B2/C1"}
+  - {name: "French", level: "B1/B2"}
+  - {name: "German", level: "A2"}
+  - {name: "Italian", level: "A2"}
+awards:
+  - title: "Data & Telemetry Award Runner-Up"
+    org: "Shell Eco-Marathon Americas"
+    year: "2026"
+  - title: "Honorable Mention"
+    org: "Altair Global Student Contest"
+    year: "2025"
+  - title: "Data & Telemetry Award Winner"
+    org: "Shell Eco-Marathon Americas"
+    year: "2025"
+certifications:
+  - title: "SolidWorks CSWA-Simulation"
+    org: "Dassault Systèmes SolidWorks"
+    year: "2026"
+  - title: "SolidWorks CSWP"
+    org: "Dassault Systèmes SolidWorks"
+    year: "2026"
+  - title: "Altium: PCB Basic Design"
+    org: "Altium"
+    year: "2026"
+  - title: "MIT.nano: Certificate of Participation"
+    org: "Massachusetts Institute of Technology"
+    year: "2026"
+  - title: "SolidWorks CSWA"
+    org: "Dassault Systèmes SolidWorks"
+    year: "2025"

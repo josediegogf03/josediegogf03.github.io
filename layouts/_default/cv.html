@@ -1,0 +1,61 @@
+{{ define "main" }}
+{{ $cv := site.Data.cv }}
+{{ $l := .Params.labels }}
+<section class="pt-8 pb-16 bg-bg dark:bg-bg">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <h1 class="text-3xl font-bold text-center mb-2 font-heading text-text-primary dark:text-text-primary">{{ .Title }}</h1>
+    <p class="text-lg text-center mb-8 text-gray-700 dark:text-text-tertiary italic">{{ $cv.name }} · {{ $cv.role }}</p>
+
+    <div class="bg-bg-secondary dark:bg-bg-secondary p-6 rounded-lg shadow-lg border border-border-primary dark:border-border-primary mb-6">
+      <p class="text-gray-700 dark:text-text-secondary leading-relaxed">{{ $cv.profile }}</p>
+      <div class="mt-5 flex flex-wrap gap-3 justify-center sm:justify-start">
+        <a href="{{ site.Params.resume_url_en }}" target="_blank" rel="noopener" class="bg-gradient-primary text-white px-5 py-2 rounded-lg font-semibold button-hover"><i class="fas fa-download mr-2"></i>{{ $l.download }}</a>
+        <a href="{{ relLangURL "achievements/" }}" class="px-5 py-2 rounded-lg font-semibold border border-border-primary dark:border-border-primary text-primary dark:text-white button-hover"><i class="fas fa-award mr-2"></i>{{ $l.achievements }}</a>
+      </div>
+    </div>
+
+    {{ range $sec := slice (dict "key" "education" "icon" "graduation-cap" "label" $l.education) (dict "key" "experience" "icon" "briefcase" "label" $l.experience) (dict "key" "publications" "icon" "book-open" "label" $l.publications) (dict "key" "volunteering" "icon" "hands-helping" "label" $l.volunteering) }}
+    <h2 class="text-2xl font-bold mt-10 mb-4 font-heading text-text-primary dark:text-text-primary"><i class="fas fa-{{ $sec.icon }} mr-3 text-primary dark:text-white"></i>{{ $sec.label }}</h2>
+    <div class="space-y-4">
+      {{ range index $cv $sec.key }}
+      <div class="bg-bg-secondary dark:bg-bg-secondary p-6 rounded-lg shadow-lg border border-border-primary dark:border-border-primary" style="border-left: 4px solid var(--color-primary);">
+        <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline gap-1">
+          <h3 class="text-lg font-semibold text-text-primary dark:text-text-primary">{{ with .role }}{{ . }}{{ else }}{{ with .degree }}{{ . }}{{ else }}{{ .title }}{{ end }}{{ end }}</h3>
+          <span class="text-sm text-gray-600 dark:text-text-tertiary whitespace-nowrap">{{ .dates }}</span>
+        </div>
+        <div class="flex flex-col sm:flex-row sm:justify-between gap-1 mb-3">
+          <span class="font-medium text-primary dark:text-white">{{ with .org }}{{ . }}{{ else }}{{ .venue }}{{ end }}</span>
+          {{ with .place }}<span class="text-sm text-gray-600 dark:text-text-tertiary"><i class="fas fa-map-marker-alt mr-1"></i>{{ . }}</span>{{ end }}
+        </div>
+        {{ with .authors }}<p class="text-sm italic text-gray-700 dark:text-text-secondary">{{ . }}</p>{{ end }}
+        {{ with .bullets }}
+        <ul class="list-disc pl-5 space-y-1 text-gray-700 dark:text-text-secondary">
+          {{ range . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <h2 class="text-2xl font-bold mt-10 mb-4 font-heading text-text-primary dark:text-text-primary"><i class="fas fa-tools mr-3 text-primary dark:text-white"></i>{{ $l.skills }}</h2>
+    <div class="bg-bg-secondary dark:bg-bg-secondary p-6 rounded-lg shadow-lg border border-border-primary dark:border-border-primary space-y-4">
+      {{ range $cv.skills }}
+      <div>
+        <h3 class="font-semibold mb-2 text-text-primary dark:text-text-primary">{{ .group }}</h3>
+        <div class="flex flex-wrap gap-2">
+          {{ range .items }}<span class="px-3 py-1 rounded-full text-sm font-medium text-text-primary dark:text-text-primary" style="background: color-mix(in srgb, var(--color-primary) 18%, transparent);">{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    <h2 class="text-2xl font-bold mt-10 mb-4 font-heading text-text-primary dark:text-text-primary"><i class="fas fa-language mr-3 text-primary dark:text-white"></i>{{ $l.languages }}</h2>
+    <div class="bg-bg-secondary dark:bg-bg-secondary p-6 rounded-lg shadow-lg border border-border-primary dark:border-border-primary">
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-gray-700 dark:text-text-secondary">
+        {{ range $cv.languages }}<li class="flex justify-between border-b border-border-primary dark:border-border-primary py-1"><span class="font-medium">{{ .name }}</span><span>{{ .level }}</span></li>{{ end }}
+      </ul>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -24,11 +24,6 @@ url = "/#technical"
 weight = 4.5
 
 [[main]]
-name = "Blog"
-url = "/fr/blog/"
-weight = 60
-
-[[main]]
 name = "Ingénierie"
 url = "/fr/engineering/"
 weight = 50
@@ -40,3 +35,12 @@ url = "/fr/contributions/"
 weight = 51
 pre = "contributions"
 
+[[main]]
+name = "CV"
+url = "/fr/cv/"
+weight = 52
+
+[[main]]
+name = "Réalisations"
+url = "/fr/achievements/"
+weight = 53
