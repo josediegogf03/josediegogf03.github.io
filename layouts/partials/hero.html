@@ -5,6 +5,10 @@
   }
   /* Portrait photo: anchor to the top so the whole head fits inside the circle. */
   .hero-profile-ring img { object-position: 50% 0%; }
+  /* Profile photo at 3/4 of the theme size (was 18rem / 20rem / 30rem). */
+  .hero-profile-ring { width: 13.5rem !important; height: 13.5rem !important; }
+  @media (min-width: 768px) { .hero-profile-ring { width: 15rem !important; height: 15rem !important; } }
+  @media (min-width: 1024px) { .hero-profile-ring { width: min(22.5rem, 100%) !important; height: auto !important; aspect-ratio: 1 / 1; } }
 </style>
 <section id="home" class="flex items-center justify-center gradient-bg text-white relative overflow-hidden hero-section">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 w-full pt-16">
