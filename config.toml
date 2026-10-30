@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = false
       tagline = "Mechanical Engineering Student."
       hero_description = "Head of Technology at Fireraven: hands-on tech leadership for FireGuard and RedRaven, with real-time policy enforcement, red-teaming, and auditor-ready compliance for LLM agents. I bridge CEO and product vision with AI systems engineering so enterprises can adopt agents safely and at scale."
       hero_location = "Mexico City, Mexico"
-      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
+      resume_url = "/files/CV_EN.pdf"
       collab_tags = [
         "Tech leadership & architecture",
         "AI agent security & compliance",
@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = false
       tagline = "Estudiante de Ingeniería Mecánica."
       hero_description = "Head of Technology en Fireraven: liderazgo técnico hands-on de FireGuard y RedRaven, con enforcement de políticas en tiempo real, red teaming y cumplimiento listo para auditoría para agentes LLM. Conecto la visión del CEO y del producto con la ingeniería de sistemas de IA para una adopción empresarial segura y a escala."
       hero_location = "Ciudad de México, MX"
-      resume_url = "/files/Felipe_Cordero_CV_ENG.pdf"
+      resume_url = "/files/CV_EN.pdf"
       collab_tags = [
         "Liderazgo técnico y arquitectura",
         "Seguridad y cumplimiento de agentes IA",
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
       tagline = "Étudiant en génie mécanique."
       hero_description = "Directeur de la technologie chez Fireraven : leadership technique hands-on pour FireGuard et RedRaven, avec enforcement de politiques en temps réel, red teaming et conformité prête pour l'audit pour agents LLM. Je relie la vision du CEO et du produit à l'ingénierie des systèmes IA pour une adoption entreprise sûre et à l'échelle."
       hero_location = "Mexico, MX"
-      resume_url = "/files/Felipe_Cordero_CV_FRE.pdf"
+      resume_url = "/files/CV_EN.pdf"
       collab_tags = [
         "Leadership tech et architecture",
         "Sécurité et conformité des agents IA",
@@ -69,7 +69,7 @@ name = "José Diego González"
 firstName = "José Diego"
 lastName = "González"
 email = "josediego.gf03@gmail.com"
-profile_image = "/images/felipe-cordero-profile.jpg"
+profile_image = "/images/Profile-Image.jpg"
 author = "José Diego González"
 
 og_image = "images/felipecordero-og.png"
@@ -84,8 +84,8 @@ github_text = "github.com/josediegogf03"
 copyright = "José Diego González"
 
 
-resume_url_en = "/files/Felipe_Cordero_CV_ENG.pdf"
-resume_url_fr = "/files/Felipe_Cordero_CV_FRE.pdf"
+resume_url_en = "/files/CV_EN.pdf"
+resume_url_fr = "/files/CV_EN.pdf"
 resume_label = "View CV"
 
 # Form and Pexels: set in config or config.local.toml. CI: HUGO_PARAMS_FORMSPREEENDPOINT, HUGO_PARAMS_PEXELSAPIKEY (no underscores)
