@@ -1,10 +1,15 @@
 <style>
   /* Keep every menu title on one line and scale the bar so all items fit on desktop widths. */
   @media (min-width: 1024px) {
-    nav[role="banner"] .nav-link { white-space: nowrap; font-size: clamp(0.8rem, 1.15vw, 1rem); }
-    nav[role="banner"] .space-x-6 { column-gap: clamp(0.6rem, 1.5vw, 1.5rem); }
+    nav[role="banner"] > div { max-width: none; }
+    nav[role="banner"] .flex.justify-between { column-gap: clamp(1rem, 2vw, 2.5rem); }
+    nav[role="banner"] .nav-link { white-space: nowrap; font-size: clamp(0.68rem, 0.98vw, 0.95rem); }
+    nav[role="banner"] .space-x-6 { column-gap: clamp(0.4rem, 1vw, 1.5rem); }
     nav[role="banner"] .space-x-6 > :not([hidden]) ~ :not([hidden]) { margin-left: 0 !important; }
-    nav[role="banner"] .font-heading { white-space: nowrap; font-size: clamp(1.25rem, 2.3vw, 1.875rem); }
+    nav[role="banner"] .font-heading { white-space: nowrap; flex-shrink: 0; font-size: clamp(1rem, 1.8vw, 1.6rem); }
+  }
+  @media (min-width: 1024px) and (max-width: 1099px) {
+    nav[role="banner"] > div { padding-left: 0.5rem; padding-right: 0.5rem; }
   }
 </style>
 <nav class="fixed w-full bg-bg dark:bg-bg shadow-md z-50" role="banner">

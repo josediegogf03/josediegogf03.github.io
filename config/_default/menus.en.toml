@@ -30,7 +30,7 @@ weight = 50
 pre = "engineering"
 
 [[main]]
-name = "Contributions"
+name = "Repositories"
 url = "/contributions/"
 weight = 51
 pre = "contributions"

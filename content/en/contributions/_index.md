@@ -1,5 +1,5 @@
 +++
-title = "Contributions"
+title = "Repositories"
 description = "Explore my contributions to education, community, and open-source projects."
 type = "list"
 # menu = "main"

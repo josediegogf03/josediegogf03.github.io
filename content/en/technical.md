@@ -14,7 +14,7 @@ technical_groups:
         logo: "/images/logos/solidworks.png"
       - icon: "cube"
         name: "OnShape"
-        logo: "/images/logos/onshape.svg"
+        logo: "/images/logos/onshape.png"
       - icon: "cogs"
         name: "Fusion CAM"
         logo: "/images/logos/fusion360.svg"
