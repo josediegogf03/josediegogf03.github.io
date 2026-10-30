@@ -11,6 +11,7 @@ technical_groups:
     skills:
       - icon: "cube"
         name: "SolidWorks CAD/Simulation"
+        logo: "/images/logos/solidworks.png"
       - icon: "cube"
         name: "OnShape"
         logo: "/images/logos/onshape.svg"

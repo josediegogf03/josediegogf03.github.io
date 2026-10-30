@@ -24,7 +24,7 @@ url = "/#technical"
 weight = 4.5
 
 [[main]]
-name = "Ingénierie"
+name = "Projets"
 url = "/fr/engineering/"
 weight = 50
 pre = "engineering"
