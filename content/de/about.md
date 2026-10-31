@@ -22,7 +22,7 @@ quickfacts:
   title: Sprachen
   value: |
     - 🇬🇧 Englisch (IELTS C1)
-    - 🇨🇱 Spanisch (Muttersprache)
+    - 🇲🇽 Spanisch (Muttersprache)
     - 🇫🇷 Französisch (TCF B2)
 - icon: heart
   title: Interessen

@@ -22,7 +22,7 @@ quickfacts:
   title: Lingue
   value: |
     - 🇬🇧 Inglese (IELTS C1)
-    - 🇨🇱 Spagnolo (madrelingua)
+    - 🇲🇽 Spagnolo (madrelingua)
     - 🇫🇷 Francese (TCF B2)
 - icon: heart
   title: Interessi

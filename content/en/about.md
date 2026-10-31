@@ -32,7 +32,7 @@ quickfacts:
     title: "Languages"
     value: |
       - 🇬🇧 English (IELTS C1)
-      - 🇨🇱 Spanish (Native)
+      - 🇲🇽 Spanish (Native)
       - 🇫🇷 French (TCF B2)
   - icon: "heart"
     title: "Interests"

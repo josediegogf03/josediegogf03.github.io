@@ -51,7 +51,7 @@
         {{ $cur := $.Site.Language.Lang }}
         {{ $currentFlag := "🏳️" }}
         {{ if eq $cur "en" }}{{ $currentFlag = "🇬🇧" }}{{ end }}
-        {{ if eq $cur "es" }}{{ $currentFlag = "🇨🇱" }}{{ end }}
+        {{ if eq $cur "es" }}{{ $currentFlag = "🇲🇽" }}{{ end }}
         {{ if eq $cur "fr" }}{{ $currentFlag = "🇫🇷" }}{{ end }}
         {{ if eq $cur "de" }}{{ $currentFlag = "🇩🇪" }}{{ end }}
         {{ if eq $cur "it" }}{{ $currentFlag = "🇮🇹" }}{{ end }}
@@ -72,7 +72,7 @@
                 {{ if eq $lang "de" }}{{ $flag = "🇩🇪" }}{{ end }}
                 {{ if eq $lang "it" }}{{ $flag = "🇮🇹" }}{{ end }}
                 {{ if eq $lang "en" }}{{ $flag = "🇬🇧" }}{{ end }}
-                {{ if eq $lang "es" }}{{ $flag = "🇨🇱" }}{{ end }}
+                {{ if eq $lang "es" }}{{ $flag = "🇲🇽" }}{{ end }}
                 {{ if eq $lang "bg" }}{{ $flag = "🇧🇬" }}{{ end }}
                 {{/* Check if current page has a translation in this language */}}
                 {{ $targetURL := .RelPermalink }}
@@ -169,7 +169,7 @@
               {{ if eq $lang "de" }}{{ $flag = "🇩🇪" }}{{ end }}
               {{ if eq $lang "it" }}{{ $flag = "🇮🇹" }}{{ end }}
               {{ if eq $lang "en" }}{{ $flag = "🇬🇧" }}{{ end }}
-              {{ if eq $lang "es" }}{{ $flag = "🇨🇱" }}{{ end }}
+              {{ if eq $lang "es" }}{{ $flag = "🇲🇽" }}{{ end }}
               {{ if eq $lang "bg" }}{{ $flag = "🇧🇬" }}{{ end }}
 
               {{/* Check if current page has a translation in this language */}}
