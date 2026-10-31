@@ -1,0 +1,143 @@
+[read_more]
+other = "Weiterlesen"
+
+[by]
+other = "von"
+
+[posted_on]
+other = "Veröffentlicht am"
+
+[tags]
+other = "Tags"
+
+[contact]
+other = "Kontakt"
+
+[contactFormLabel]
+other = "Lassen Sie uns in Kontakt treten"
+
+[contactFormLabelNameLabel]
+other = "Name"
+
+[contactFormLabelEmailLabel]
+other = "E-Mail"
+
+[contactFormLabelSubjectLabel]
+other = "Betreff"
+
+[contactFormLabelMessageLabel]
+other = "Nachricht"
+
+[contactFormSendBtnLabel]
+other = "Senden"
+
+[send]
+other = "Senden"
+
+[skills]
+other = "Fähigkeiten"
+
+[experience]
+other = "Erfahrung"
+
+[about]
+other = "Über mich"
+
+[blog]
+other = "Blog"
+
+[engineering]
+other = "Projekte"
+
+[contributions]
+other = "Repositories"
+
+[technical]
+other = "Tech-Stack"
+
+[language]
+other = "Sprache"
+
+[getInTouch]
+other = "Kontakt aufnehmen"
+
+[learnMore]
+other = "Mehr erfahren"
+
+[sendMeAMessage]
+other = "Schreiben Sie mir eine Nachricht"
+
+[contactInformation]
+other = "Kontaktinformationen"
+
+[priorityContact]
+other = "Vorrangiger Kontakt"
+
+[aboutMe]
+other = "Über mich"
+
+[connectOnLinkedIn]
+other = "Auf LinkedIn vernetzen"
+
+[quickFacts]
+other = "Kurzfakten"
+
+[more]
+other = "Mehr"
+
+[aboutName]
+other = "Über"
+
+[relatedContent]
+other = "Ähnliche Inhalte"
+
+[interests]
+other = "Interessen"
+
+[languages]
+other = "Sprachen"
+
+[helloIm]
+other = "Hallo, ich bin"
+
+[viewCV]
+other = "Lebenslauf ansehen"
+
+[downloadResume]
+other = "Lebenslauf herunterladen"
+
+[keyAchievements]
+other = "Wichtigste Erfolge"
+
+[demoImageAlt]
+other = "Demobild"
+
+[galleryNotFound]
+other = "Galeriebilder nicht gefunden in"
+
+[viewOnGithub]
+other = "Vollständigen Quellcode auf GitHub ansehen"
+
+[iframeIdRequired]
+other = "Fehler: Der Parameter 'id' ist für den iframe-Shortcode erforderlich."
+
+[fullscreen]
+other = "Vollbild"
+
+[youtubePlayerTitle]
+other = "YouTube-Videoplayer"
+
+[vimeoPlayerTitle]
+other = "Vimeo-Videoplayer"
+
+[pageNotFound]
+other = "Seite nicht gefunden"
+
+[pageNotFoundSubtitle]
+other = "Die gesuchte Seite existiert nicht."
+
+[goHome]
+other = "Zur Startseite"
+
+[certainlyNotHere]
+other = "Hier ganz sicher nicht"

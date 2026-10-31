@@ -1,0 +1,143 @@
+[read_more]
+other = "Leggi di più"
+
+[by]
+other = "di"
+
+[posted_on]
+other = "Pubblicato il"
+
+[tags]
+other = "Tag"
+
+[contact]
+other = "Contatti"
+
+[contactFormLabel]
+other = "Restiamo in contatto"
+
+[contactFormLabelNameLabel]
+other = "Nome"
+
+[contactFormLabelEmailLabel]
+other = "Email"
+
+[contactFormLabelSubjectLabel]
+other = "Oggetto"
+
+[contactFormLabelMessageLabel]
+other = "Messaggio"
+
+[contactFormSendBtnLabel]
+other = "Invia"
+
+[send]
+other = "Invia"
+
+[skills]
+other = "Competenze"
+
+[experience]
+other = "Esperienza"
+
+[about]
+other = "Chi sono"
+
+[blog]
+other = "Blog"
+
+[engineering]
+other = "Progetti"
+
+[contributions]
+other = "Repository"
+
+[technical]
+other = "Tech Stack"
+
+[language]
+other = "Lingua"
+
+[getInTouch]
+other = "Contattami"
+
+[learnMore]
+other = "Scopri di più"
+
+[sendMeAMessage]
+other = "Inviami un messaggio"
+
+[contactInformation]
+other = "Informazioni di contatto"
+
+[priorityContact]
+other = "Contatto prioritario"
+
+[aboutMe]
+other = "Chi sono"
+
+[connectOnLinkedIn]
+other = "Connettiti su LinkedIn"
+
+[quickFacts]
+other = "In breve"
+
+[more]
+other = "Altro"
+
+[aboutName]
+other = "Informazioni su"
+
+[relatedContent]
+other = "Contenuti correlati"
+
+[interests]
+other = "Interessi"
+
+[languages]
+other = "Lingue"
+
+[helloIm]
+other = "Ciao, sono"
+
+[viewCV]
+other = "Vedi CV"
+
+[downloadResume]
+other = "Scarica il CV"
+
+[keyAchievements]
+other = "Risultati principali"
+
+[demoImageAlt]
+other = "Immagine dimostrativa"
+
+[galleryNotFound]
+other = "Immagini della galleria non trovate in"
+
+[viewOnGithub]
+other = "Vedi il codice completo su GitHub"
+
+[iframeIdRequired]
+other = "Errore: il parametro 'id' è obbligatorio per lo shortcode iframe."
+
+[fullscreen]
+other = "Schermo intero"
+
+[youtubePlayerTitle]
+other = "Lettore video YouTube"
+
+[vimeoPlayerTitle]
+other = "Lettore video Vimeo"
+
+[pageNotFound]
+other = "Pagina non trovata"
+
+[pageNotFoundSubtitle]
+other = "La pagina che stai cercando non esiste."
+
+[goHome]
+other = "Vai alla home"
+
+[certainlyNotHere]
+other = "Di certo non qui"

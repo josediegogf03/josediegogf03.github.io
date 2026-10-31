@@ -1,0 +1,67 @@
+---
+title: Tech Stack
+type: homepage
+intro: Design-, Simulations-, Programmier- und Softwarewerkzeuge, die ich in meiner Arbeit im Maschinenbau einsetze.
+technical_groups:
+- title: Konstruktion & Simulation
+  icon: pencil-ruler
+  color_scheme: blue
+  skills:
+  - icon: cube
+    name: SolidWorks CAD/Simulation
+    logo: /images/logos/solidworks.png
+  - icon: cube
+    name: OnShape
+    logo: /images/logos/onshape.png
+  - icon: cogs
+    name: Fusion CAM
+    logo: /images/logos/fusion360.svg
+  - icon: calculator
+    name: MATLAB
+    logo: /images/logos/matlab.svg
+  - icon: wave-square
+    name: Simulink
+    logo: /images/logos/simulink.svg
+- title: Programmierung
+  icon: code
+  color_scheme: green
+  skills:
+  - icon: python
+    name: Python
+    logo: /images/logos/python.svg
+  - icon: c
+    name: C
+    logo: /images/logos/c.svg
+  - icon: cplusplus
+    name: C++
+    logo: /images/logos/cpp.svg
+  - icon: java
+    name: Java
+    logo: /images/logos/java.svg
+  - icon: project-diagram
+    name: LabVIEW
+    logo: /images/logos/labview.svg
+- title: Software & Werkzeuge
+  icon: tools
+  color_scheme: purple
+  skills:
+  - icon: file-word
+    name: Word
+    logo: /images/logos/word.svg
+  - icon: file-excel
+    name: Excel
+    logo: /images/logos/excel.svg
+  - icon: file-powerpoint
+    name: PowerPoint
+    logo: /images/logos/powerpoint.svg
+  - icon: square-root-alt
+    name: LaTeX
+    logo: /images/logos/latex.svg
+  - icon: code
+    name: VS Code
+    logo: /images/logos/vscode.svg
+  - icon: github
+    name: GitHub
+    logo: /images/logos/github.svg
+    invert_on_dark: true
+---

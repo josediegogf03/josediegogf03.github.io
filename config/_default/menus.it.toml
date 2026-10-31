@@ -1,0 +1,46 @@
+[[main]]
+name = "Chi sono"
+url = "/#about"
+weight = 2
+
+[[main]]
+name = "Competenze"
+url = "/#skills"
+weight = 3
+
+[[main]]
+name = "Esperienza"
+url = "/#experience"
+weight = 4
+
+[[main]]
+name = "Contatti"
+url = "/#contact"
+weight = 5
+
+[[main]]
+name = "Tech Stack"
+url = "/#technical"
+weight = 4.5
+
+[[main]]
+name = "Progetti"
+url = "/it/engineering/"
+weight = 50
+pre = "engineering"
+
+[[main]]
+name = "Repository"
+url = "/it/contributions/"
+weight = 51
+pre = "contributions"
+
+[[main]]
+name = "CV"
+url = "/it/cv/"
+weight = 52
+
+[[main]]
+name = "Risultati"
+url = "/it/achievements/"
+weight = 53

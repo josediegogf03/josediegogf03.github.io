@@ -56,6 +56,39 @@ defaultContentLanguageInSubdir = false
         "Adoption de l'IA en entreprise"
       ]
 
+  [languages.de]
+    contentDir = "content/de"
+    languageName = "Deutsch"
+    weight = 4
+    [languages.de.params]
+      tagline = "Maschinenbaustudent."
+      hero_description = "Head of Technology bei Fireraven: praxisnahe technische Führung für FireGuard und RedRaven, mit Echtzeit-Richtliniendurchsetzung, Red-Teaming und auditfähiger Compliance für LLM-Agenten. Ich verbinde die Vision von CEO und Produkt mit KI-Systemtechnik, damit Unternehmen Agenten sicher und skalierbar einsetzen können."
+      hero_location = "Mexiko-Stadt, Mexiko"
+      resume_url = "/files/CV_EN.pdf"
+      collab_tags = [
+        "Technische Führung & Architektur",
+        "Sicherheit & Compliance von KI-Agenten",
+        "FireGuard & Richtlinien-Guardrails",
+        "Full-Stack-KI (Python / Next.js)",
+        "KI-Einführung im Unternehmen"
+      ]
+  [languages.it]
+    contentDir = "content/it"
+    languageName = "Italiano"
+    weight = 5
+    [languages.it.params]
+      tagline = "Studente di Ingegneria Meccanica."
+      hero_description = "Head of Technology in Fireraven: leadership tecnica sul campo per FireGuard e RedRaven, con applicazione delle policy in tempo reale, red teaming e conformità pronta per l'audit per agenti LLM. Collego la visione del CEO e del prodotto con l'ingegneria dei sistemi di IA, così che le aziende possano adottare gli agenti in modo sicuro e su larga scala."
+      hero_location = "Città del Messico, Messico"
+      resume_url = "/files/CV_EN.pdf"
+      collab_tags = [
+        "Leadership tecnica e architettura",
+        "Sicurezza e conformità degli agenti IA",
+        "FireGuard e guardrail di policy",
+        "IA full stack (Python / Next.js)",
+        "Adozione dell'IA in azienda"
+      ]
+
 [build]
   writeStats = true
 
