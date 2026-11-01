@@ -2,38 +2,32 @@
 title: Chi sono
 type: homepage
 featured_image: /images/Profile-Image.jpg
-intro: '**Head of Technology nell''IA**. Mi occupo della direzione tecnologica e della realizzazione di agenti LLM sicuri e conformi. Ho iniziato nell''**ingegneria strutturale** in Cile, sono passato a **software e automazione** nelle costruzioni e nel BIM, poi a **prodotti basati su IA/ML e LLM**. Oggi sono **Head of Technology** in <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>, dove guido **FireGuard** e **RedRaven**: architettura, roadmap e realizzazione diretta di guardrail di policy, applicazione a runtime e red teaming, affinché le aziende possano adottare gli agenti in sicurezza. Ho guidato lavori complessi e interdisciplinari dalla R&S fino alla consegna, tra cui la **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) per gli studi di IA/ML.'
-study: Vivo a **Montréal** e continuo ad approfondire **intelligenza artificiale e machine learning** al **Collège LaSalle** (Python, PyTorch, modellazione predittiva), a complemento del mio lavoro quotidiano alla guida di **sicurezza degli agenti LLM, guardrail e realizzazione della piattaforma** in Fireraven.
+intro: '**Studente di Ingegneria Meccanica** al **Tecnológico de Monterrey** (Città del Messico) con esperienza in progettazione meccanica, simulazione strutturale FEM, sistemi embedded e telemetria: modellazione e assiemi CAD 3D in **SolidWorks**, firmware C/C++ per **ESP32** con MQTT, progettazione di PCB in **Altium Designer** ed elaborazione dati in **Python**. Sono **co-capitano** e **responsabile telemetria** del team **EcoVolt CCM** (30 membri), che costruisce un veicolo elettrico ad alta efficienza energetica per lo **Shell Eco-marathon**.'
+study: A luglio 2026 sono stato **studente ospite al MIT.nano** (40 ore), lavorando in camera bianca sulla microfabbricazione di celle fotovoltaiche, cantilever in nitruro di silicio e dispositivi microfluidici in PDMS. Al Tec ho una **borsa di studio per merito del 60%** e una **media di 96/100**.
 passion_title: Su cosa mi concentro
-passion_text: 'Come **Head of Technology operativo**, collego la **visione del CEO e del prodotto** con l''**ingegneria dei sistemi di IA**. Definisco la direzione tecnologica e continuo a realizzare in prima persona: progetto e consegno funzionalità che bilanciano sicurezza, conformità ed esperienza utente, aiutando le organizzazioni ad adottare gli **agenti LLM** in modo **sicuro, verificabile e allineato agli obiettivi di business**. In <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a> significa gestire la consegna di FireGuard e RedRaven insieme a prodotto, sicurezza e clienti (policy, controlli a runtime ed evidenze di conformità), con **Python (FastAPI)**, **Next.js/TypeScript** e **PostgreSQL**. In precedenza, in <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a>, ho guidato l''**analisi strutturale autonoma** e il **ML** per la stima del calcestruzzo, trasformando esigenze ingegneristiche in prodotto consegnato.'
-mix: 'Il mio percorso dall''**ingegneria strutturale** alla **leadership tecnologica nell''IA** mi permette di unire **pensiero sistemico rigoroso** e **consegna del software**: dalle strutture fisiche e dal BIM alla **IA guidata da policy** e agli strumenti aziendali. Mi concentro su **risultati concreti**: priorità chiare, impatto misurabile e sistemi affidabili.'
-personal: Fuori dal lavoro mi piacciono **tennis**, **cucina**, **batteria**, **nuoto** e **fotografia**. Faccio **volontariato al LaSalle College**, aiutando i nuovi studenti a inserirsi e sostenendo la comunità accademica.
+passion_text: 'Mi piace portare un veicolo **dalla progettazione meccanica ai dati**: produzione e assemblaggio di una monoscocca in fibra di carbonio, **telemetria in tempo reale** (GPS, accelerometro, giroscopio, corrente e tensione, sensori Hall) e le PCB che la rendono possibile (3 schede di telemetria e una di sensori Hall per il motore, progettate in Altium). Questo lavoro ha ottenuto il **Data & Telemetry Award** dello Shell Eco-Marathon Americas (vincitore nel 2025, secondo nel 2026), una **menzione d''onore** all''Altair Global Student Contest (2025) e un articolo inviato a **IEEE SAIBOT 2026**.'
+mix: 'Unisco la **produzione pratica** (stampa 3D, tornio, fresatura, CNC, saldatura, brasatura SMD/THT) con la **simulazione e il software** (SolidWorks Simulation, MATLAB/Simulink, Python, C/C++). Mi piace anche insegnare: dal 2023 sono **assistente didattico e mentor** al Tec, a supporto di studenti di matematica IB e del primo anno universitario.'
+personal: Sono certificato **SolidWorks** (CSWA, CSWA-Simulation, CSWP) e **Altium** (PCB Basic Design). Parlo spagnolo (madrelingua), inglese e francese, e sto imparando tedesco e italiano.
 quickfacts:
 - icon: briefcase
   title: Ruolo attuale
-  value: Head of Technology in <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>
+  value: Co-capitano e responsabile telemetria in **EcoVolt CCM EV Racing Team** (Shell Eco-marathon)
 - icon: graduation-cap
   title: Formazione
-  value: '🏗️ <a href="https://uchile.cl/" target="_blank" rel="noopener noreferrer">Universidad de Chile</a>, **Laurea in Ingegneria Civile**<br>🤖 <a href="https://lasallecollege.lcieducation.com/en" target="_blank" rel="noopener noreferrer">Collège LaSalle Montréal</a>, **AEC: Intelligenza artificiale e machine learning**'
+  value: 🎓 **Ingegneria Meccanica**, Tecnológico de Monterrey (2024–2028)<br>🔬 **Studente ospite**, MIT.nano (2026)
 - icon: award
   title: Risultato recente
-  value: 🏆 Vincitore della <a href="/it/blog/academic-excellence-recognition/" target="_blank" rel="noopener">Academic Excellence Scholarship</a> 🎓 sponsorizzata da ✈️ Air Canada al Collège LaSalle Montréal (2025) 🎉
+  value: 🏆 **Secondo al Data & Telemetry Award**, Shell Eco-Marathon Americas (2026); vincitore nel 2025
 - icon: language
   title: Lingue
-  value: |
-    - 🇬🇧 Inglese (IELTS C1)
-    - 🇲🇽 Spagnolo (madrelingua)
-    - 🇫🇷 Francese (TCF B2)
-- icon: heart
-  title: Interessi
-  value: |
-    - ♟️ Scacchi
-    - 🎾 Tennis
-    - 🚴 Ciclismo
-    - 🏊‍♂️ Nuoto
-    - 👨‍🍳 Cucina
-    - 🥁 Batteria
-    - 📸 Fotografia
-    - ✈️ Viaggi
-    - 📚 Lettura
+  value: '- 🇲🇽 Spagnolo (madrelingua)
+
+    - 🇬🇧 Inglese (B2/C1)
+
+    - 🇫🇷 Francese (B1/B2)
+
+    - 🇩🇪 Tedesco (A2)
+
+    - 🇮🇹 Italiano (A2)'
+  kind: languages
 ---

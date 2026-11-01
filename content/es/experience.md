@@ -8,12 +8,13 @@ resume_downloads:
 positions:
 - company: EcoVolt CCM EV Racing Team
   company_key: ecovolt
-  role: Capitán del equipo, líder de telemetría e ingeniero de carrera
-  period: Octubre 2024 - Presente
+  role: Co-capitán y líder de telemetría
+  period: Septiembre 2024 - Presente
   industry: Vehículos eléctricos (Shell Eco-marathon)
   location: Ciudad de México, México
   company_description: Equipo estudiantil que desarrolla un vehículo eléctrico de alta eficiencia energética para Shell Eco-marathon.
   bullet_points:
+  - 'Trayectoria en el equipo: miembro de electrónica (sep. 2024), co-gerente de telemetría (jun. 2025), ingeniero de carrera y gerente de analítica de carrera (sep. 2025), co-capitán y líder de telemetría (may. 2026).'
   - Lideré un equipo de ~30 integrantes enfocado en desarrollar un vehículo eléctrico eficiente, alcanzando ~200 km/kWh a una velocidad de ~28 km/h.
   - Contribuí a la manufactura y el ensamblaje de un chasis monocasco 100% de fibra de carbono, optimizando la rigidez estructural y la reducción de peso.
   - 'Diseñé e implementé un sistema de telemetría en tiempo real para recolectar y analizar datos del vehículo: GPS, acelerómetro, giroscopio, sensores de corriente y voltaje, y sensores Hall para velocidad y entradas de acelerador/freno.'
@@ -36,4 +37,11 @@ positions:
   industry: Educación y mentoría
   bullet_points:
   - Brindé tutoría integral en Matemáticas del IB y a estudiantes de primer año universitario, ayudándoles a aclarar conceptos complejos, desarrollar estrategias de estudio eficaces y prepararse mejor para los exámenes.
+- company: Escudería Borregos CCM
+  company_key: borregos-ccm
+  role: Miembro activo
+  period: Septiembre 2024 - Diciembre 2025
+  industry: Automovilismo estudiantil
+  bullet_points:
+  - Ayudé a desarrollar y mejorar el auto de carreras del equipo, trabajando en frenos, diseño de carrocería y electrónica.
 ---

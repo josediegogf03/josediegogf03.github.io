@@ -2,38 +2,32 @@
 title: Über mich
 type: homepage
 featured_image: /images/Profile-Image.jpg
-intro: '**Head of Technology im Bereich KI**. Ich verantworte die technologische Ausrichtung und Umsetzung sicherer, regelkonformer LLM-Agenten. Ich habe in der **Tragwerksplanung** in Chile angefangen, bin dann zu **Software und Automatisierung** in Bau und BIM gewechselt und anschließend zu **KI/ML und LLM-basierten Produkten**. Heute bin ich **Head of Technology** bei <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a> und leite **FireGuard** und **RedRaven**: Architektur, Roadmap und die praktische Umsetzung von Richtlinien-Guardrails, Laufzeitdurchsetzung und Red-Teaming, damit Unternehmen Agenten sicher einsetzen können. Ich habe komplexe, interdisziplinäre Arbeit von der Forschung und Entwicklung bis zur Auslieferung geleitet, darunter das **Academic Excellence Scholarship** (Air Canada, Collège LaSalle Montréal, 2025) für KI/ML-Studien.'
-study: Ich lebe in **Montréal** und vertiefe am **Collège LaSalle** weiter **KI und maschinelles Lernen** (Python, PyTorch, Vorhersagemodelle), ergänzend zu meiner täglichen Arbeit als Leiter für **Sicherheit von LLM-Agenten, Guardrails und Plattform-Umsetzung** bei Fireraven.
+intro: '**Maschinenbaustudent** am **Tecnológico de Monterrey** (Mexiko-Stadt) mit Erfahrung in mechanischer Konstruktion, struktureller FEM-Simulation, eingebetteten Systemen und Telemetrie: 3D-CAD-Modellierung und Baugruppen in **SolidWorks**, C/C++-Firmware für **ESP32** mit MQTT, Leiterplattenentwurf in **Altium Designer** und Datenverarbeitung in **Python**. Ich bin **Co-Kapitän** und **Telemetrie-Leiter** des 30-köpfigen Teams **EcoVolt CCM**, das ein energieeffizientes Elektrofahrzeug für den **Shell Eco-marathon** baut.'
+study: Im Juli 2026 war ich **Gaststudent am MIT.nano** (40 Stunden) und habe im Reinraum an der Mikrofertigung von Photovoltaikzellen, Siliziumnitrid-Cantilevern und mikrofluidischen PDMS-Bauteilen gearbeitet. Am Tec habe ich ein **Leistungsstipendium von 60 %** und einen **Notendurchschnitt von 96/100**.
 passion_title: Worauf ich mich konzentriere
-passion_text: 'Als **praxisnaher Head of Technology** verbinde ich die **Vision von CEO und Produkt** mit **KI-Systemtechnik**. Ich gebe die technologische Richtung vor und liefere weiterhin selbst: Ich entwerfe und realisiere Funktionen, die Sicherheit, Compliance und Nutzererfahrung ausbalancieren, und helfe Organisationen, **LLM-Agenten** **sicher, nachvollziehbar und im Einklang mit den Geschäftszielen** einzuführen. Bei <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a> bedeutet das, die Auslieferung von FireGuard und RedRaven gemeinsam mit Produkt, Sicherheit und Kunden zu verantworten (Richtlinien, Laufzeitkontrollen und Compliance-Nachweise), umgesetzt mit **Python (FastAPI)**, **Next.js/TypeScript** und **PostgreSQL**. Zuvor habe ich bei <a href="https://obralink.com" target="_blank" rel="noopener noreferrer"><strong>ObraLink</strong></a> die **autonome Tragwerksanalyse** und **ML** zur Betonmengenermittlung geleitet und technische Anforderungen in ein ausgeliefertes Produkt übersetzt.'
-mix: 'Mein Weg von der **Tragwerksplanung** zur **technischen Führung im Bereich KI** bedeutet, dass ich **diszipliniertes Systemdenken** mit **Softwareauslieferung** verbinde: von physischen Tragwerken und BIM bis zu **richtliniengesteuerter KI** und Unternehmenswerkzeugen. Ich konzentriere mich auf **praktische Ergebnisse**: klare Prioritäten, messbare Wirkung und verlässliche Systeme.'
-personal: Außerhalb der Arbeit mag ich **Tennis**, **Kochen**, **Schlagzeug**, **Schwimmen** und **Fotografie**. Ich **engagiere mich ehrenamtlich am LaSalle College**, helfe neuen Studierenden beim Ankommen und unterstütze die akademische Gemeinschaft.
+passion_text: 'Ich bringe ein Fahrzeug gern **von der mechanischen Konstruktion bis zu den Daten**: Fertigung und Montage eines Carbon-Monocoques, **Echtzeit-Telemetrie** (GPS, Beschleunigungssensor, Gyroskop, Strom und Spannung, Hall-Sensoren) und die dahinterstehenden Leiterplatten (3 Telemetrie-Platinen und eine Hall-Sensor-Platine für den Motor, entworfen in Altium). Diese Arbeit brachte den **Data & Telemetry Award** beim Shell Eco-Marathon Americas (Sieger 2025, Zweiter 2026), eine **lobende Erwähnung** beim Altair Global Student Contest (2025) und einen bei **IEEE SAIBOT 2026** eingereichten Fachartikel.'
+mix: 'Ich verbinde **praktische Fertigung** (3D-Druck, Drehen, Fräsen, CNC, Schweißen, SMD/THT-Löten) mit **Simulation und Software** (SolidWorks Simulation, MATLAB/Simulink, Python, C/C++). Außerdem lehre ich gern: Seit 2023 bin ich **Lehrassistent und Mentor** am Tec und unterstütze Studierende in IB-Mathematik und im ersten Studienjahr.'
+personal: Ich bin in **SolidWorks** (CSWA, CSWA-Simulation, CSWP) und **Altium** (PCB Basic Design) zertifiziert. Ich spreche Spanisch (Muttersprache), Englisch und Französisch und lerne Deutsch und Italienisch.
 quickfacts:
 - icon: briefcase
-  title: Aktuelle Position
-  value: Head of Technology bei <a href="https://fireraven.ai" target="_blank" rel="noopener noreferrer"><strong>Fireraven</strong></a>
+  title: Aktuelle Rolle
+  value: Co-Kapitän & Telemetrie-Leiter im **EcoVolt CCM EV Racing Team** (Shell Eco-marathon)
 - icon: graduation-cap
   title: Ausbildung
-  value: '🏗️ <a href="https://uchile.cl/" target="_blank" rel="noopener noreferrer">Universidad de Chile</a>, **Bachelor in Bauingenieurwesen**<br>🤖 <a href="https://lasallecollege.lcieducation.com/en" target="_blank" rel="noopener noreferrer">Collège LaSalle Montréal</a>, **AEC: Künstliche Intelligenz und maschinelles Lernen**'
+  value: 🎓 **Maschinenbau (B.Sc.)**, Tecnológico de Monterrey (2024–2028)<br>🔬 **Gaststudent**, MIT.nano (2026)
 - icon: award
-  title: Jüngster Erfolg
-  value: 🏆 Empfänger des <a href="/de/blog/academic-excellence-recognition/" target="_blank" rel="noopener">Academic Excellence Scholarship</a> 🎓, gefördert von ✈️ Air Canada am Collège LaSalle Montréal (2025) 🎉
+  title: Aktueller Erfolg
+  value: 🏆 **Zweiter beim Data & Telemetry Award**, Shell Eco-Marathon Americas (2026); Sieger 2025
 - icon: language
   title: Sprachen
-  value: |
-    - 🇬🇧 Englisch (IELTS C1)
-    - 🇲🇽 Spanisch (Muttersprache)
-    - 🇫🇷 Französisch (TCF B2)
-- icon: heart
-  title: Interessen
-  value: |
-    - ♟️ Schach
-    - 🎾 Tennis
-    - 🚴 Radfahren
-    - 🏊‍♂️ Schwimmen
-    - 👨‍🍳 Kochen
-    - 🥁 Schlagzeug
-    - 📸 Fotografie
-    - ✈️ Reisen
-    - 📚 Lesen
+  value: '- 🇲🇽 Spanisch (Muttersprache)
+
+    - 🇬🇧 Englisch (B2/C1)
+
+    - 🇫🇷 Französisch (B1/B2)
+
+    - 🇩🇪 Deutsch (A2)
+
+    - 🇮🇹 Italienisch (A2)'
+  kind: languages
 ---

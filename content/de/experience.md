@@ -8,12 +8,13 @@ resume_downloads:
 positions:
 - company: EcoVolt CCM EV Racing Team
   company_key: ecovolt
-  role: Teamkapitän, Telemetrie-Leiter & Race Engineer
-  period: Oktober 2024 - heute
+  role: Co-Kapitän & Telemetrie-Leiter
+  period: September 2024 - heute
   industry: Elektrofahrzeuge (Shell Eco-marathon)
   location: Mexiko-Stadt, Mexiko
   company_description: Studentisches Team, das ein energieeffizientes Elektrofahrzeug für den Shell Eco-marathon entwickelt.
   bullet_points:
+  - 'Werdegang im Team: Mitglied Elektronik (Sept. 2024), Co-Manager Telemetrie (Juni 2025), Race Engineer und Leiter Rennanalyse (Sept. 2025), Co-Kapitän und Telemetrie-Leiter (Mai 2026).'
   - Leitung eines Teams mit ca. 30 Mitgliedern zur Entwicklung eines energieeffizienten Elektrofahrzeugs; erreicht wurden ca. 200 km/kWh bei einer Geschwindigkeit von ca. 28 km/h.
   - Mitarbeit an Fertigung und Montage eines Monocoque-Chassis aus 100 % Kohlefaser zur Optimierung von Steifigkeit und Gewichtsreduzierung.
   - 'Entwicklung und Einsatz eines Echtzeit-Telemetriesystems zur Erfassung und Analyse von Fahrzeugdaten: GPS, Beschleunigungssensor, Gyroskop, Strom- und Spannungssensoren sowie Hall-Sensoren für Geschwindigkeit und Gas-/Bremseingaben.'
@@ -31,9 +32,16 @@ positions:
   - 'MEMS & mikrofluidische Bauelemente: Herstellung von Siliziumnitrid-Cantilevern und mikrofluidischen PDMS-Kanälen mittels Photolithographie, chemischem Ätzen und Soft-Lithographie.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: 'Lehrassistent & Mentoring'
+  role: Lehrassistent & Mentoring
   period: August 2023 - heute
   industry: Bildung & Mentoring
   bullet_points:
   - 'Umfassende Nachhilfe in IB-Mathematik und für Studierende im ersten Studienjahr: Klärung komplexer Konzepte, Entwicklung effektiver Lernstrategien und bessere Prüfungsvorbereitung.'
+- company: Escudería Borregos CCM
+  company_key: borregos-ccm
+  role: Aktives Mitglied
+  period: September 2024 - Dezember 2025
+  industry: Studentischer Motorsport
+  bullet_points:
+  - 'Mitarbeit an Entwicklung und Verbesserung des Rennwagens des Teams: Bremsen, Karosseriedesign und Elektronik.'
 ---

@@ -1,34 +1,44 @@
 ---
 title: Competenze
 type: homepage
-intro: 'Leadership tecnica per piattaforme di sicurezza degli agenti IA: progettazione di sicurezza e conformità per LLM, consegna full stack e collaborazione chiara tra prodotto, sicurezza e clienti.'
+intro: 'Progettazione meccanica, simulazione, sistemi embedded e telemetria: dal CAD e dal FEM alle PCB e al firmware.'
 domains:
-- icon: brain
-  title: IA e ingegneria di prodotto
-  description: Agenti LLM, progettazione di prompt e policy, guardrail, applicazione a runtime, mentalità da red teaming, sicurezza dell'IA, progettazione di prodotto orientata alla conformità e definizione dell'ambito con PM e clienti.
-  devicon_class: devicon-tensorflow-original colored
-- icon: code
-  title: Ingegneria IA full stack
-  description: 'Python, FastAPI, Next.js/TypeScript, agenti e pattern RAG, PostgreSQL e Supabase, test, osservabilità, GCP e deployment moderno: un toolkit integrato per consegnare funzionalità affidabili.'
-  devicon_class: devicon-python-plain colored
-- icon: lock
-  title: Pensiero di prodotto e sicurezza
-  description: Analisi dei requisiti, inquadramento dei rischi, controlli di sicurezza, verificabilità e gestione dei vincoli normativi e di conformità, trasformati in roadmap prioritarie e funzionalità consegnate.
-  devicon_class: devicon-react-original colored
+- icon: cube
+  title: Progettazione meccanica e CAD
+  description: Modellazione 3D e assiemi in SolidWorks (CSWA, CSWA-Simulation, CSWP), più OnShape e Fusion CAM.
+- icon: chart-line
+  title: Simulazione e analisi
+  description: FEM strutturale con SolidWorks Simulation, MATLAB/Simulink ed elaborazione dati in Python.
+- icon: microchip
+  title: Sistemi embedded e telemetria
+  description: Firmware C/C++ per ESP32 con MQTT e PlatformIO; telemetria in tempo reale con GPS, IMU, corrente/tensione e sensori Hall.
+- icon: project-diagram
+  title: Progettazione PCB
+  description: 'Progettazione di PCB in Altium Designer (Altium: PCB Basic Design): schede di telemetria e di sensori Hall per il motore.'
 - icon: tools
-  title: Ingegneria strutturale e AEC
-  description: Solida esperienza in progettazione strutturale, BIM e tecnologia delle costruzioni, che radica le decisioni di prodotto in come si comportano davvero i sistemi fisici e organizzativi complessi.
-  devicon_class: devicon-docker-plain colored
+  title: Produzione e prototipazione
+  description: Stampa 3D, tornio, fresatura, CNC, saldatura, brasatura SMD/THT e assemblaggio di una monoscocca in fibra di carbonio.
+- icon: flask
+  title: Micro e nanofabbricazione
+  description: 'Lavoro in camera bianca al MIT.nano: deposizione di film, attacco a secco, fotolitografia, litografia soft, caratterizzazione I-V.'
 - icon: users
-  title: Collaborazione e leadership
-  description: 'Head of Technology in Fireraven: guida della consegna tecnologica di FireGuard e RedRaven; lavoro agile con team globali distribuiti, dalla scoperta al rilascio.'
-  devicon_class: devicon-github-original colored
+  title: Leadership e didattica
+  description: Co-capitano di un team di ingegneria di 30 membri; assistente didattico e mentor al Tec.
 - icon: globe
-  title: Lingue ed esperienza internazionale
-  description: Spagnolo madrelingua; inglese (IELTS C1) e francese (TCF B2) per contesti internazionali di prodotto e clienti.
-  devicon_class: devicon-html5-plain colored
-- icon: hands-helping
-  title: Comunità e apprendimento
-  description: Volontariato e apprendimento continuo, tra cui la Academic Excellence Scholarship al Collège LaSalle Montréal.
-  devicon_class: devicon-javascript-plain colored
+  title: Lingue
+  description: Spagnolo (madrelingua), inglese (B2/C1), francese (B1/B2), tedesco (A2), italiano (A2).
+technical:
+- SolidWorks
+- OnShape
+- Fusion CAM
+- MATLAB/Simulink
+- Python
+- C/C++
+- LabVIEW
+- Altium Designer
+- Git
+- VS Code
+- PlatformIO
+- 3D printing
+- CNC
 ---

@@ -13,15 +13,15 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.en.params]
       tagline = "Mechanical Engineering Student."
-      hero_description = "Head of Technology at Fireraven: hands-on tech leadership for FireGuard and RedRaven, with real-time policy enforcement, red-teaming, and auditor-ready compliance for LLM agents. I bridge CEO and product vision with AI systems engineering so enterprises can adopt agents safely and at scale."
+      hero_description = "Mechanical Engineering student at Tecnológico de Monterrey and Team Co-captain of EcoVolt CCM, an energy-efficient electric vehicle team for Shell Eco-marathon. I work across mechanical design, telemetry and embedded systems, PCB design and simulation, and in 2026 I was a Visiting Student at MIT.nano."
       hero_location = "Mexico City, Mexico"
       resume_url = "/files/CV_EN.pdf"
       collab_tags = [
-        "Tech leadership & architecture",
-        "AI agent security & compliance",
-        "FireGuard & policy guardrails",
-        "Full-stack AI (Python / Next.js)",
-        "Enterprise AI adoption"
+        "Mechanical design & CAD (SolidWorks)",
+        "Telemetry & embedded systems (ESP32)",
+        "PCB design (Altium Designer)",
+        "Structural FEA & simulation",
+        "Energy-efficient electric vehicles"
       ]
   [languages.es]
     contentDir = "content/es"
@@ -29,15 +29,15 @@ defaultContentLanguageInSubdir = false
     weight = 2
     [languages.es.params]
       tagline = "Estudiante de Ingeniería Mecánica."
-      hero_description = "Head of Technology en Fireraven: liderazgo técnico hands-on de FireGuard y RedRaven, con enforcement de políticas en tiempo real, red teaming y cumplimiento listo para auditoría para agentes LLM. Conecto la visión del CEO y del producto con la ingeniería de sistemas de IA para una adopción empresarial segura y a escala."
+      hero_description = "Estudiante de Ingeniería Mecánica en el Tecnológico de Monterrey y co-capitán de EcoVolt CCM, equipo de un vehículo eléctrico de alta eficiencia para Shell Eco-marathon. Trabajo en diseño mecánico, telemetría y sistemas embebidos, diseño de PCB y simulación; en 2026 fui estudiante visitante en MIT.nano."
       hero_location = "Ciudad de México, MX"
       resume_url = "/files/CV_EN.pdf"
       collab_tags = [
-        "Liderazgo técnico y arquitectura",
-        "Seguridad y cumplimiento de agentes IA",
-        "FireGuard y guardrails de políticas",
-        "IA full stack (Python / Next.js)",
-        "Adopción de IA empresarial"
+        "Diseño mecánico y CAD (SolidWorks)",
+        "Telemetría y sistemas embebidos (ESP32)",
+        "Diseño de PCB (Altium Designer)",
+        "Simulación y FEA estructural",
+        "Vehículos eléctricos eficientes"
       ]
   [languages.fr]
     contentDir = "content/fr"
@@ -45,15 +45,15 @@ defaultContentLanguageInSubdir = false
     weight = 3
     [languages.fr.params]
       tagline = "Étudiant en génie mécanique."
-      hero_description = "Directeur de la technologie chez Fireraven : leadership technique hands-on pour FireGuard et RedRaven, avec enforcement de politiques en temps réel, red teaming et conformité prête pour l'audit pour agents LLM. Je relie la vision du CEO et du produit à l'ingénierie des systèmes IA pour une adoption entreprise sûre et à l'échelle."
+      hero_description = "Étudiant en génie mécanique au Tecnológico de Monterrey et co-capitaine d'EcoVolt CCM, équipe d'un véhicule électrique économe en énergie pour le Shell Eco-marathon. Je travaille la conception mécanique, la télémétrie et les systèmes embarqués, la conception de PCB et la simulation ; en 2026, j'ai été étudiant visiteur au MIT.nano."
       hero_location = "Mexico, MX"
       resume_url = "/files/CV_EN.pdf"
       collab_tags = [
-        "Leadership tech et architecture",
-        "Sécurité et conformité des agents IA",
-        "FireGuard et guardrails de politiques",
-        "IA full stack (Python / Next.js)",
-        "Adoption de l'IA en entreprise"
+        "Conception mécanique et CAO (SolidWorks)",
+        "Télémétrie et systèmes embarqués (ESP32)",
+        "Conception de PCB (Altium Designer)",
+        "Simulation et éléments finis (structure)",
+        "Véhicules électriques économes en énergie"
       ]
 
   [languages.de]
@@ -62,15 +62,15 @@ defaultContentLanguageInSubdir = false
     weight = 4
     [languages.de.params]
       tagline = "Maschinenbaustudent."
-      hero_description = "Head of Technology bei Fireraven: praxisnahe technische Führung für FireGuard und RedRaven, mit Echtzeit-Richtliniendurchsetzung, Red-Teaming und auditfähiger Compliance für LLM-Agenten. Ich verbinde die Vision von CEO und Produkt mit KI-Systemtechnik, damit Unternehmen Agenten sicher und skalierbar einsetzen können."
+      hero_description = "Maschinenbaustudent am Tecnológico de Monterrey und Co-Kapitän von EcoVolt CCM, einem Team für ein energieeffizientes Elektrofahrzeug beim Shell Eco-marathon. Ich arbeite an mechanischer Konstruktion, Telemetrie und eingebetteten Systemen, Leiterplattenentwurf und Simulation; 2026 war ich Gaststudent am MIT.nano."
       hero_location = "Mexiko-Stadt, Mexiko"
       resume_url = "/files/CV_EN.pdf"
       collab_tags = [
-        "Technische Führung & Architektur",
-        "Sicherheit & Compliance von KI-Agenten",
-        "FireGuard & Richtlinien-Guardrails",
-        "Full-Stack-KI (Python / Next.js)",
-        "KI-Einführung im Unternehmen"
+        "Mechanische Konstruktion & CAD (SolidWorks)",
+        "Telemetrie & eingebettete Systeme (ESP32)",
+        "Leiterplattenentwurf (Altium Designer)",
+        "Strukturelle FEM-Simulation",
+        "Energieeffiziente Elektrofahrzeuge"
       ]
   [languages.it]
     contentDir = "content/it"
@@ -78,15 +78,15 @@ defaultContentLanguageInSubdir = false
     weight = 5
     [languages.it.params]
       tagline = "Studente di Ingegneria Meccanica."
-      hero_description = "Head of Technology in Fireraven: leadership tecnica sul campo per FireGuard e RedRaven, con applicazione delle policy in tempo reale, red teaming e conformità pronta per l'audit per agenti LLM. Collego la visione del CEO e del prodotto con l'ingegneria dei sistemi di IA, così che le aziende possano adottare gli agenti in modo sicuro e su larga scala."
+      hero_description = "Studente di Ingegneria Meccanica al Tecnológico de Monterrey e co-capitano di EcoVolt CCM, team di un veicolo elettrico ad alta efficienza energetica per lo Shell Eco-marathon. Mi occupo di progettazione meccanica, telemetria e sistemi embedded, progettazione di PCB e simulazione; nel 2026 sono stato studente ospite al MIT.nano."
       hero_location = "Città del Messico, Messico"
       resume_url = "/files/CV_EN.pdf"
       collab_tags = [
-        "Leadership tecnica e architettura",
-        "Sicurezza e conformità degli agenti IA",
-        "FireGuard e guardrail di policy",
-        "IA full stack (Python / Next.js)",
-        "Adozione dell'IA in azienda"
+        "Progettazione meccanica e CAD (SolidWorks)",
+        "Telemetria e sistemi embedded (ESP32)",
+        "Progettazione PCB (Altium Designer)",
+        "Simulazione FEM strutturale",
+        "Veicoli elettrici ad alta efficienza"
       ]
 
 [build]
@@ -106,9 +106,9 @@ phone = "+52 55 6188 3161"
 profile_image = "/images/Profile-Image.jpg"
 author = "José Diego González"
 
-og_image = "images/felipecordero-og.png"
+og_image = "images/Profile-Image.jpg"
 
-description = "Head of Technology at Fireraven. Hands-on tech leadership for FireGuard and RedRaven: guardrails, security, and compliance for LLM agents, bridging product vision with AI systems engineering."
+description = "Mechanical Engineering student at Tecnológico de Monterrey and Team Co-captain of EcoVolt CCM (Shell Eco-marathon). Mechanical design, telemetry, embedded systems and PCB design."
 
 linkedin_url = "https://www.linkedin.com/in/josediegogf03/"
 linkedin_text = "linkedin.com/in/josediegogf03/"

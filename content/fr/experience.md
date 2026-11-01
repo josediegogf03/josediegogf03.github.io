@@ -8,12 +8,13 @@ resume_downloads:
 positions:
 - company: EcoVolt CCM EV Racing Team
   company_key: ecovolt
-  role: Capitaine d'équipe, responsable télémétrie et ingénieur de course
-  period: Octobre 2024 - Présent
+  role: Co-capitaine et responsable télémétrie
+  period: Septembre 2024 - Présent
   industry: Véhicules électriques (Shell Eco-marathon)
   location: Mexico, Mexique
   company_description: Équipe étudiante qui développe un véhicule électrique à haute efficacité énergétique pour le Shell Eco-marathon.
   bullet_points:
+  - 'Parcours dans l''équipe : membre électronique (sept. 2024), co-responsable télémétrie (juin 2025), ingénieur de course et responsable de l''analyse de course (sept. 2025), co-capitaine et responsable télémétrie (mai 2026).'
   - Direction d'une équipe d'environ 30 membres développant un véhicule électrique économe en énergie, atteignant ~200 km/kWh à une vitesse d'environ 28 km/h.
   - Contribution à la fabrication et à l'assemblage d'un châssis monocoque 100 % fibre de carbone, optimisant la rigidité structurelle et la réduction de poids.
   - 'Conception et déploiement d''un système de télémétrie en temps réel pour collecter et analyser les données du véhicule : GPS, accéléromètre, gyroscope, capteurs de courant et de tension, et capteurs à effet Hall pour la vitesse et les commandes d''accélérateur/frein.'
@@ -31,9 +32,16 @@ positions:
   - 'MEMS et dispositifs microfluidiques : fabrication de micro-leviers en nitrure de silicium et de canaux microfluidiques en PDMS par photolithographie, gravure chimique et lithographie douce.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: 'Assistant d''enseignement et mentorat'
+  role: Assistant d'enseignement et mentorat
   period: Août 2023 - Présent
   industry: Éducation et mentorat
   bullet_points:
   - Tutorat complet en mathématiques du Baccalauréat International et pour des étudiants de première année, afin de clarifier des concepts complexes, développer des stratégies d'étude efficaces et mieux préparer les examens.
+- company: Escudería Borregos CCM
+  company_key: borregos-ccm
+  role: Membre actif
+  period: Septembre 2024 - Décembre 2025
+  industry: Sport automobile étudiant
+  bullet_points:
+  - 'Contribution au développement et à l''amélioration de la voiture de course de l''équipe : freinage, conception de la carrosserie et électronique.'
 ---

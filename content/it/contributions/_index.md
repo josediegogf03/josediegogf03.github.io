@@ -1,16 +1,8 @@
 +++
 title = "Repository"
-description = "Esplora i miei contributi a istruzione, comunità e progetti open source."
+description = "Il mio codice e il mio lavoro open source su GitHub."
 type = "list"
-# menu = "main"
 weight = 51
 +++
 
-Benvenuto nella mia sezione Repository. Qui trovi progetti, strumenti e iniziative open source che ho sviluppato a sostegno dell'istruzione, della comunità e della community tecnica.
-
-## Progetti attuali
-
-- Scheduler Student Services
-- CareerCanvas Hugo Theme
-
-Sfoglia i progetti qui sotto o usa i tag per trovare contributi specifici.
+Il mio codice è su GitHub: [github.com/josediegogf03](https://github.com/josediegogf03).

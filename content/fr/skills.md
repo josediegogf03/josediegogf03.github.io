@@ -1,42 +1,44 @@
 ---
-title: "Compétences"
-type: "homepage"
-intro: >-
-  Leadership technologique pour plateformes de sécurité d'agents IA : conception sécurité et conformité LLM, livraison full stack et collaboration claire avec produit, sécurité et clients.
-
+title: Compétences
+type: homepage
+intro: 'Conception mécanique, simulation, systèmes embarqués et télémétrie : de la CAO et des éléments finis aux PCB et au firmware.'
 domains:
-  - icon: "brain"
-    title: "IA et ingénierie produit"
-    description: "Agents LLM, conception prompts et politiques, guardrails, exécution runtime, esprit red teaming, sécurité IA, conception produit orientée conformité, cadrage avec PMs et clients."
-    devicon_class: "devicon-tensorflow-original colored"
-
-  - icon: "code"
-    title: "Ingénierie full stack IA"
-    description: "Python, FastAPI, Next.js/TypeScript, agents et RAG, PostgreSQL et Supabase, tests, observabilité, GCP et déploiement moderne : boîte à outils intégrée pour livrer des fonctionnalités fiables."
-    devicon_class: "devicon-python-plain colored"
-
-  - icon: "lock"
-    title: "Produit et culture sécurité"
-    description: "Découverte d'exigences, cadrage des risques, contrôles de sécurité, auditabilité, travail avec cadres réglementaires et de conformité, transformés en roadmaps et fonctionnalités livrées."
-    devicon_class: "devicon-react-original colored"
-
-  - icon: "tools"
-    title: "Ingénierie structurelle et AEC"
-    description: "Solide ancrage en conception structurelle, BIM et technologie construction, pour ancrer les décisions produit dans le comportement de systèmes physiques et organisationnels complexes."
-    devicon_class: "devicon-docker-plain colored"
-
-  - icon: "users"
-    title: "Collaboration et leadership"
-    description: "Directeur de la technologie chez Fireraven : pilotage de la livraison technique de FireGuard et RedRaven ; travail agile avec équipes distribuées de la découverte au release."
-    devicon_class: "devicon-github-original colored"
-
-  - icon: "globe"
-    title: "Langues et international"
-    description: "Espagnol natif ; anglais et français pour contextes produit et clients internationaux."
-    devicon_class: "devicon-html5-plain colored"
-
-  - icon: "hands-helping"
-    title: "Communauté et apprentissage"
-    description: "Bénévolat et formation continue, dont la Bourse d'excellence académique au Collège LaSalle Montréal."
-    devicon_class: "devicon-javascript-plain colored"
+- icon: cube
+  title: Conception mécanique et CAO
+  description: Modélisation 3D et assemblages sous SolidWorks (CSWA, CSWA-Simulation, CSWP), ainsi que OnShape et Fusion CAM.
+- icon: chart-line
+  title: Simulation et analyse
+  description: Calcul de structures par éléments finis avec SolidWorks Simulation, MATLAB/Simulink et traitement de données en Python.
+- icon: microchip
+  title: Systèmes embarqués et télémétrie
+  description: Firmware C/C++ pour ESP32 avec MQTT et PlatformIO ; télémétrie en temps réel avec GPS, IMU, courant/tension et capteurs à effet Hall.
+- icon: project-diagram
+  title: Conception de PCB
+  description: 'Conception de PCB sous Altium Designer (Altium : PCB Basic Design) : cartes de télémétrie et de capteurs Hall pour le moteur.'
+- icon: tools
+  title: Fabrication et prototypage
+  description: Impression 3D, tour, fraisage, CNC, soudage, brasage CMS/traversant et assemblage d'un monocoque en fibre de carbone.
+- icon: flask
+  title: Micro et nanofabrication
+  description: 'Travail en salle blanche au MIT.nano : dépôt de films, gravure sèche, photolithographie, lithographie douce, caractérisation I-V.'
+- icon: users
+  title: Leadership et enseignement
+  description: Co-capitaine d'une équipe d'ingénierie de 30 membres ; assistant d'enseignement et mentor au Tec.
+- icon: globe
+  title: Langues
+  description: Espagnol (langue maternelle), anglais (B2/C1), français (B1/B2), allemand (A2), italien (A2).
+technical:
+- SolidWorks
+- OnShape
+- Fusion CAM
+- MATLAB/Simulink
+- Python
+- C/C++
+- LabVIEW
+- Altium Designer
+- Git
+- VS Code
+- PlatformIO
+- 3D printing
+- CNC
 ---

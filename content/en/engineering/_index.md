@@ -1,24 +1,10 @@
 +++
-title = "Structural Engineering"
-description = "Explore my structural engineering tools and solutions for modern construction challenges."
+title = "Projects"
+description = "Mechanical design, telemetry, embedded systems and PCB projects."
 type = "list"
-# menu = "main"
 weight = 50
 +++
 
-## Structural Engineering Tools & Solutions
+## Projects
 
-Here you'll find a collection of tools and solutions I've developed to tackle complex structural challenges in today's construction industry.
-
-### What You'll Find Here
-
-- **Automated Design Tools**: Streamlined calculators for common structural problems
-- **Real-Time Monitoring Solutions**: Systems that provide live structural insights during construction
-- **BIM Integration Tools**: Software that bridges the gap between design and construction
-- **Interactive Visualizations**: Web-based tools for better understanding of structural behavior
-
-Each tool represents my commitment to making complex engineering concepts more accessible and practical for real-world applications.
-
----
-
-*Browse through the tools below or use the tags to find specific solutions that match your needs.* 
+Mechanical design, telemetry, embedded systems, PCB design and simulation projects from the EcoVolt CCM team, my university work and personal builds. Browse the projects on the side or use the tags to find a specific topic.
