@@ -3,3 +3,9 @@
 mit-nano:
   src: /images/companies/mit-nano.png
   alt: MIT.nano
+ecovolt:
+  src: /images/companies/ecovolt.png
+  alt: EcoVolt CCM
+tec-de-monterrey:
+  src: /images/companies/tec-de-monterrey.png
+  alt: Tecnológico de Monterrey

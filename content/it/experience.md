@@ -31,7 +31,7 @@ positions:
   - 'MEMS e dispositivi microfluidici: realizzazione di cantilever in nitruro di silicio e canali microfluidici in PDMS tramite fotolitografia, attacco chimico e litografia soft.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: Mentor
+  role: Assistente didattico e mentoring
   period: Agosto 2023 - Presente
   industry: Istruzione e mentoring
   bullet_points:

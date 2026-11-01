@@ -31,7 +31,7 @@ positions:
   - 'MEMS et dispositifs microfluidiques : fabrication de micro-leviers en nitrure de silicium et de canaux microfluidiques en PDMS par photolithographie, gravure chimique et lithographie douce.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: Mentor
+  role: 'Assistant d''enseignement et mentorat'
   period: Août 2023 - Présent
   industry: Éducation et mentorat
   bullet_points:

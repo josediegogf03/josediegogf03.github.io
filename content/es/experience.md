@@ -31,7 +31,7 @@ positions:
   - 'MEMS y dispositivos microfluídicos: fabriqué voladizos de nitruro de silicio y canales microfluídicos de PDMS mediante fotolitografía, grabado químico y litografía blanda.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: Mentor
+  role: Asistente de profesor y mentoría
   period: Agosto 2023 - Presente
   industry: Educación y mentoría
   bullet_points:

@@ -31,7 +31,7 @@ positions:
   - 'MEMS & mikrofluidische Bauelemente: Herstellung von Siliziumnitrid-Cantilevern und mikrofluidischen PDMS-Kanälen mittels Photolithographie, chemischem Ätzen und Soft-Lithographie.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: Mentor
+  role: 'Lehrassistent & Mentoring'
   period: August 2023 - heute
   industry: Bildung & Mentoring
   bullet_points:

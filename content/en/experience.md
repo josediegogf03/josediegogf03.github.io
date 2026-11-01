@@ -31,7 +31,7 @@ positions:
   - 'MEMS & Microfluidic Devices: fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography.'
 - company: Tecnológico de Monterrey (ITESM)
   company_key: tec-de-monterrey
-  role: Mentor
+  role: 'Teacher Assistant & Mentoring'
   period: August 2023 - Present
   industry: Education & Mentoring
   bullet_points:
