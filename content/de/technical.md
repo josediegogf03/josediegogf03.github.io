@@ -13,7 +13,7 @@ technical_groups:
     logo: /images/logos/solidworks.png
   - icon: cube
     name: OnShape
-    logo: /images/logos/onshape.png
+    logo: /images/logos/onshape-mark.svg
   - icon: microchip
     name: Altium Designer
     logo: /images/logos/altium.svg
