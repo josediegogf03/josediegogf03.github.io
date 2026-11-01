@@ -6,6 +6,16 @@ resume_downloads:
 - lang: en
   label: Inglese
 positions:
+- company: "Massachusetts Institute of Technology (MIT.nano)"
+  company_url: https://mitnano.mit.edu
+  role: "Studente ospite - Micro e nanofabbricazione"
+  period: "Luglio 2026 (40 ore)"
+  industry: "Micro e nanofabbricazione"
+  location: "Cambridge, USA"
+  company_description: "MIT.nano: struttura di ricerca del MIT con camera bianca e nanofabbricazione ad uso condiviso."
+  bullet_points:
+  - "Microfabbricazione di celle fotovoltaiche: esplorazione del processo di fabbricazione in camera bianca di celle solari al silicio a giunzione p-n, con deposizione di film, attacco a secco, metallizzazione e caratterizzazione I-V."
+  - "MEMS e dispositivi microfluidici: realizzazione di cantilever in nitruro di silicio e canali microfluidici in PDMS tramite fotolitografia, attacco chimico e litografia soft."
 - company: Fireraven
   company_url: https://fireraven.ai
   period: Maggio 2025 - Presente

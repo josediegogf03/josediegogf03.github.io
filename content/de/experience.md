@@ -6,6 +6,16 @@ resume_downloads:
 - lang: en
   label: Englisch
 positions:
+- company: "Massachusetts Institute of Technology (MIT.nano)"
+  company_url: https://mitnano.mit.edu
+  role: "Gaststudent - Mikro- & Nanofertigung"
+  period: "Juli 2026 (40 Stunden)"
+  industry: "Mikro- & Nanofertigung"
+  location: "Cambridge, USA"
+  company_description: "MIT.nano: gemeinsam genutzte Reinraum- und Nanofabrikationsforschungseinrichtung des MIT."
+  bullet_points:
+  - "Mikrofertigung von Photovoltaikzellen: Kennenlernen des Reinraum-Fertigungsprozesses für Silizium-Solarzellen mit p-n-Übergang, mit Schichtabscheidung, Trockenätzen, Metallisierung und I-U-Charakterisierung."
+  - "MEMS & mikrofluidische Bauelemente: Herstellung von Siliziumnitrid-Cantilevern und mikrofluidischen PDMS-Kanälen mittels Photolithographie, chemischem Ätzen und Soft-Lithographie."
 - company: Fireraven
   company_url: https://fireraven.ai
   period: Mai 2025 - heute

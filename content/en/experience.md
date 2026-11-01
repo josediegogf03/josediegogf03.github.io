@@ -11,6 +11,17 @@ resume_downloads:
     label: Français
 
 positions:
+  - company: "Massachusetts Institute of Technology (MIT.nano)"
+    company_url: "https://mitnano.mit.edu"
+    role: "Visiting Student - Micro & Nano Fabrication"
+    period: "July 2026 (40 hours)"
+    industry: "Micro & Nano Fabrication"
+    location: "Cambridge, USA"
+    company_description: "MIT.nano: MIT's shared-use cleanroom and nanofabrication research facility."
+    bullet_points:
+      - "Photovoltaic Cell Microfabrication: explored the cleanroom fabrication process for p-n junction silicon solar cells, performing film deposition, dry etching, metallization, and I-V characterization."
+      - "MEMS & Microfluidic Devices: fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography."
+
   - company: "Fireraven"
     company_url: "https://fireraven.ai"
     period: "May 2025 - Present"

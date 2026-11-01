@@ -11,6 +11,17 @@ resume_downloads:
     label: Français
 
 positions:
+  - company: "Instituto Tecnológico de Massachusetts (MIT.nano)"
+    company_url: "https://mitnano.mit.edu"
+    role: "Estudiante visitante - Micro y nanofabricación"
+    period: "Julio 2026 (40 horas)"
+    industry: "Micro y nanofabricación"
+    location: "Cambridge, EE. UU."
+    company_description: "MIT.nano: instalación de investigación del MIT con cuarto limpio y nanofabricación de uso compartido."
+    bullet_points:
+      - "Microfabricación de celdas fotovoltaicas: exploré el proceso de fabricación en cuarto limpio de celdas solares de silicio con unión p-n, realizando depósito de películas, grabado en seco, metalización y caracterización I-V."
+      - "MEMS y dispositivos microfluídicos: fabriqué voladizos de nitruro de silicio y canales microfluídicos de PDMS mediante fotolitografía, grabado químico y litografía blanda."
+
   - company: "Fireraven"
     company_url: "https://fireraven.ai"
     period: "Mayo 2025 - Presente"
