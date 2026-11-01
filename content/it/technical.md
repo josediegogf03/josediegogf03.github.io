@@ -6,6 +6,7 @@ technical_groups:
 - title: Progettazione e simulazione
   icon: pencil-ruler
   color_scheme: blue
+  per_row: 3
   skills:
   - icon: cube
     name: SOLIDWORKS
@@ -48,6 +49,7 @@ technical_groups:
 - title: Software e strumenti
   icon: tools
   color_scheme: purple
+  per_row: 3
   skills:
   - icon: file-word
     name: Word
