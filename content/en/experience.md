@@ -1,91 +1,39 @@
 ---
-title: "Experience"
-type: "homepage"
-intro: >-
-  From structural engineering to tech leadership in AI: building tools and platforms that connect technical depth with product and business outcomes.
-
+title: Experience
+type: homepage
+intro: 'Mechanical engineering in practice: leading an energy-efficient electric vehicle team, hands-on micro and nano fabrication at MIT.nano, and mentoring students at Tecnológico de Monterrey.'
 resume_downloads:
-  - lang: en
-    label: English
-  - lang: fr
-    label: Français
-
+- lang: en
+  label: English
 positions:
-  - company: "Massachusetts Institute of Technology (MIT.nano)"
-    company_url: "https://mitnano.mit.edu"
-    role: "Visiting Student - Micro & Nano Fabrication"
-    period: "July 2026 (40 hours)"
-    industry: "Micro & Nano Fabrication"
-    location: "Cambridge, USA"
-    company_description: "MIT.nano: MIT's shared-use cleanroom and nanofabrication research facility."
-    bullet_points:
-      - "Photovoltaic Cell Microfabrication: explored the cleanroom fabrication process for p-n junction silicon solar cells, performing film deposition, dry etching, metallization, and I-V characterization."
-      - "MEMS & Microfluidic Devices: fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography."
-
-  - company: "Fireraven"
-    company_url: "https://fireraven.ai"
-    period: "May 2025 - Present"
-    industry: "AI Security & Compliance"
-    location: "Montreal - Canada"
-    company_description: "FireGuard and RedRaven: real-time policy enforcement, red-teaming, and auditor-ready compliance for enterprise AI agents."
-    roles:
-      - title: "Head of Technology"
-        period: "Sept 2026 - Present"
-        bullet_points:
-          - "Own technology direction for FireGuard and RedRaven: architecture, roadmap, and delivery priorities with CEO and product."
-          - "Lead end-to-end delivery of AI agent security and compliance: policies, runtime controls, and the pentest/compliance loop."
-          - "Set the engineering bar for reliability, latency, observability, and auditor-ready evidence while staying hands-on (Python/FastAPI, Next.js/TypeScript, PostgreSQL)."
-      - title: "Full-Stack AI Product Engineer"
-        period: "May 2025 - Sept 2026"
-        bullet_points:
-          - "Own AI security and compliance features end to end with product, security, compliance, and customers."
-          - "Design and implement guardrails, policy-driven behavior, and runtime controls for LLM agents (APIs and tooling)."
-          - "Translate regulatory and risk requirements into product behavior, audit trails, and safer enterprise agent adoption."
-
-  - company: "ObraLink"
-    company_url: "https://obralink.com"
-    role: "Senior Software Developer"
-    period: "August 2023 - May 2025"
-    industry: "Construction Technology"
-    location: "Remote"
-    company_description: "Innovative construction technology company developing AI-powered structural analysis tools"
-    bullet_points:
-      - "Led technical initiatives tied to product and business goals, including innovation documentation for investment conversations exceeding $500K USD."
-      - "Delivered autonomous structural analysis and ML-based concrete estimation that shortened engineering workflows and changed how teams produced deliverables."
-      - "Translated ambiguous engineering needs into architecture, implementation, and iterative releases."
-
-  - company: "Tensacon"
-    company_url: "https://tensacon.cl"
-    role: "Technical Assistant Manager"
-    period: "March 2022 - July 2023"
-    industry: "Construction & Prefabrication"
-    location: "Chile"
-    company_description: "Specialized in prefabricated construction solutions and BIM implementation"
-    bullet_points:
-      - "Led BIM and prefabrication delivery on major projects, including CODELCO facilities and Pan American Games venues, enhancing quality and throughput on Fast Track work."
-      - "Drove workflow automation that reduced design time by 40% on critical paths."
-      - "Connected field and design constraints to executable solutions for large prefabricated builds."
-
-  - company: "Sirve Engineering"
-    company_url: "https://sirve.cl"
-    role: "Structural Engineering Team Lead and R&D Coordinator"
-    period: "March 2019 - March 2022"
-    industry: "Structural Engineering"
-    location: "Chile"
-    company_description: "Engineering firm specializing in high-rise residential and commercial structures"
-    bullet_points:
-      - "Owned R&D for internal software tools, reducing initial engineering and structure sizing time by 75%."
-      - "Delivered multiple high-rise residential and commercial complexes (~20,000 m² each) with clear technical ownership."
-      - "Implemented parametric modeling for complex geometries, linking structural performance to delivery timelines."
-
-  - company: "Various Engineering Firms"
-    role: "Structural Engineer"
-    period: "2010 - 2018"
-    industry: "Structural Engineering"
-    location: "Chile"
-    company_description: "Multiple engineering firms focusing on seismic-resistant structures and custom solutions"
-    bullet_points:
-      - "Designed seismic-resistant structures"
-      - "Developed custom calculation tools"
-      - "Mentored junior engineers"
+- company: EcoVolt CCM EV Racing Team
+  company_key: ecovolt
+  role: Team Captain, Telemetry Leader & Race Engineer
+  period: October 2024 - Present
+  industry: Electric Vehicles (Shell Eco-marathon)
+  location: Mexico City, Mexico
+  company_description: Student team developing an energy-efficient electric vehicle for Shell Eco-marathon.
+  bullet_points:
+  - Led a ~30-member team focused on developing an energy-efficient EV, achieving ~200 km/kWh at a speed of ~28 km/h.
+  - Contributed to the manufacturing and assembly of a 100% carbon fiber monocoque chassis, optimizing structural rigidity and overall weight reduction.
+  - Engineered and deployed a real-time telemetry system to collect and analyze vehicle data, including GPS, accelerometer, gyroscope, current and voltage sensors, and Hall sensors for speed and throttle/brake inputs.
+  - 'Co-designed 4 PCBs in Altium Designer: 3 telemetry PCBs (including an energy reserve) and 1 Hall-sensor PCB for the motor.'
+- company: Massachusetts Institute of Technology (MIT.nano)
+  company_key: mit-nano
+  company_url: https://mitnano.mit.edu
+  role: Visiting Student - Micro & Nano Fabrication
+  period: July 2026 (40 hours)
+  industry: Micro & Nano Fabrication
+  location: Cambridge, USA
+  company_description: 'MIT.nano: MIT''s shared-use cleanroom and nanofabrication research facility.'
+  bullet_points:
+  - 'Photovoltaic Cell Microfabrication: explored the cleanroom fabrication process for p-n junction silicon solar cells, performing film deposition, dry etching, metallization, and I-V characterization.'
+  - 'MEMS & Microfluidic Devices: fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography.'
+- company: Tecnológico de Monterrey (ITESM)
+  company_key: tec-de-monterrey
+  role: Mentor
+  period: August 2023 - Present
+  industry: Education & Mentoring
+  bullet_points:
+  - Provided comprehensive tutoring for IB Mathematics and first-year university students, helping them clarify complex concepts, develop effective study strategies, and improve exam readiness.
 ---

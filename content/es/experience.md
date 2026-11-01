@@ -1,91 +1,39 @@
 ---
-title: "Experiencia"
-type: "homepage"
-intro: >-
-  De la ingeniería estructural al liderazgo tecnológico en IA: plataformas y herramientas que conectan profundidad técnica con resultados de producto y negocio.
-
+title: Experiencia
+type: homepage
+intro: 'Ingeniería mecánica en la práctica: liderar un equipo de vehículo eléctrico eficiente, microfabricación y nanofabricación en MIT.nano y mentoría a estudiantes en el Tecnológico de Monterrey.'
 resume_downloads:
-  - lang: en
-    label: English
-  - lang: fr
-    label: Français
-
+- lang: en
+  label: English
 positions:
-  - company: "Instituto Tecnológico de Massachusetts (MIT.nano)"
-    company_url: "https://mitnano.mit.edu"
-    role: "Estudiante visitante - Micro y nanofabricación"
-    period: "Julio 2026 (40 horas)"
-    industry: "Micro y nanofabricación"
-    location: "Cambridge, EE. UU."
-    company_description: "MIT.nano: instalación de investigación del MIT con cuarto limpio y nanofabricación de uso compartido."
-    bullet_points:
-      - "Microfabricación de celdas fotovoltaicas: exploré el proceso de fabricación en cuarto limpio de celdas solares de silicio con unión p-n, realizando depósito de películas, grabado en seco, metalización y caracterización I-V."
-      - "MEMS y dispositivos microfluídicos: fabriqué voladizos de nitruro de silicio y canales microfluídicos de PDMS mediante fotolitografía, grabado químico y litografía blanda."
-
-  - company: "Fireraven"
-    company_url: "https://fireraven.ai"
-    period: "Mayo 2025 - Presente"
-    industry: "Seguridad y Cumplimiento en IA"
-    location: "Montreal - Canadá"
-    company_description: "FireGuard y RedRaven: enforcement de políticas en tiempo real, red teaming y cumplimiento listo para auditoría para agentes de IA empresariales."
-    roles:
-      - title: "Head of Technology"
-        period: "Septiembre 2026 - Presente"
-        bullet_points:
-          - "Dirijo la tecnología de FireGuard y RedRaven: arquitectura, roadmap y prioridades de entrega con el CEO y producto."
-          - "Lidero la entrega de extremo a extremo de seguridad y cumplimiento para agentes IA: políticas, controles en runtime y el ciclo de pentest/cumplimiento."
-          - "Defino el estándar de ingeniería en fiabilidad, latencia, observabilidad y evidencia lista para auditoría, siguiendo hands-on (Python/FastAPI, Next.js/TypeScript, PostgreSQL)."
-      - title: "Ingeniero de producto IA full stack"
-        period: "Mayo 2025 - Septiembre 2026"
-        bullet_points:
-          - "Propiedad de funcionalidades de seguridad y cumplimiento de extremo a extremo con producto, seguridad, cumplimiento y clientes."
-          - "Diseño e implementación de guardrails, comportamiento basado en políticas y controles en runtime para agentes LLM (APIs y herramientas)."
-          - "Traduzco requisitos regulatorios y de riesgo en comportamiento de producto, pistas de auditoría y adopción empresarial más segura de agentes."
-
-  - company: "ObraLink"
-    company_url: "https://obralink.com"
-    role: "Desarrollador de Software Senior"
-    period: "Agosto 2023 - Mayo 2025"
-    industry: "Tecnología de Construcción"
-    location: "Remote"
-    company_description: "Empresa de tecnología en construcción que desarrolla herramientas de análisis estructural con IA"
-    bullet_points:
-      - "Lideré iniciativas técnicas alineadas con producto y negocio, incluida documentación de innovación para conversaciones de inversión superiores a 500 K USD."
-      - "Entregué análisis estructural autónomo y estimación con ML que acortaron flujos de trabajo de ingeniería y cambiaron cómo los equipos producían entregables."
-      - "Traduje necesidades de ingeniería ambiguas en arquitectura, implementación y releases iterativos."
-
-  - company: "Tensacon"
-    company_url: "https://tensacon.cl"
-    role: "Subjefe de Asistencia Técnica"
-    period: "Marzo 2022 - Julio 2023"
-    industry: "Construcción y Prefabricación"
-    location: "Chile"
-    company_description: "Especializada en soluciones de construcción prefabricada e implementación BIM"
-    bullet_points:
-      - "Lideré entrega BIM y prefabricación en proyectos de gran envergadura, incluidas faenas CODELCO y sedes de los Juegos Panamericanos, mejorando calidad y productividad en proyectos Fast Track."
-      - "Impulsé automatización de flujos que redujo el tiempo de diseño en un 40% en rutas críticas."
-      - "Conecté restricciones de obra y diseño con soluciones ejecutables en prefabricación a gran escala."
-
-  - company: "Sirve Engineering"
-    company_url: "https://sirve.cl"
-    role: "Líder de Equipo de Ingeniería Estructural y Coordinador I+D"
-    period: "Marzo 2019 - Marzo 2022"
-    industry: "Ingeniería Estructural"
-    location: "Chile"
-    company_description: "Consultora de ingeniería especializada en estructuras habitacionales y comerciales en altura"
-    bullet_points:
-      - "Responsable de I+D de herramientas internas, reduciendo en un 75% el tiempo de ingeniería inicial y dimensionamiento."
-      - "Entregué múltiples complejos habitacionales y comerciales en altura (~20.000 m² cada uno) con propiedad técnica clara."
-      - "Implementé modelación paramétrica para geometrías complejas, vinculando desempeño estructural con plazos de entrega."
-
-  - company: "Various Engineering Firms"
-    role: "Ingeniero Estructural"
-    period: "2010 - 2018"
-    industry: "Ingeniería Estructural"
-    location: "Chile"
-    company_description: "Diversas consultoras enfocadas en estructuras sismorresistentes y soluciones a medida"
-    bullet_points:
-      - "Diseño de estructuras sismorresistentes"
-      - "Desarrollo de herramientas de cálculo a medida"
-      - "Mentoría a ingenieros/as junior"
+- company: EcoVolt CCM EV Racing Team
+  company_key: ecovolt
+  role: Capitán del equipo, líder de telemetría e ingeniero de carrera
+  period: Octubre 2024 - Presente
+  industry: Vehículos eléctricos (Shell Eco-marathon)
+  location: Ciudad de México, México
+  company_description: Equipo estudiantil que desarrolla un vehículo eléctrico de alta eficiencia energética para Shell Eco-marathon.
+  bullet_points:
+  - Lideré un equipo de ~30 integrantes enfocado en desarrollar un vehículo eléctrico eficiente, alcanzando ~200 km/kWh a una velocidad de ~28 km/h.
+  - Contribuí a la manufactura y el ensamblaje de un chasis monocasco 100% de fibra de carbono, optimizando la rigidez estructural y la reducción de peso.
+  - 'Diseñé e implementé un sistema de telemetría en tiempo real para recolectar y analizar datos del vehículo: GPS, acelerómetro, giroscopio, sensores de corriente y voltaje, y sensores Hall para velocidad y entradas de acelerador/freno.'
+  - 'Co-diseñé 4 PCBs en Altium Designer: 3 PCBs de telemetría (incluida una reserva de energía) y 1 PCB de sensores Hall para el motor.'
+- company: Massachusetts Institute of Technology (MIT.nano)
+  company_key: mit-nano
+  company_url: https://mitnano.mit.edu
+  role: Estudiante visitante - Micro y nanofabricación
+  period: Julio 2026 (40 horas)
+  industry: Micro y nanofabricación
+  location: Cambridge, EE. UU.
+  company_description: 'MIT.nano: instalación de investigación del MIT con cuarto limpio y nanofabricación de uso compartido.'
+  bullet_points:
+  - 'Microfabricación de celdas fotovoltaicas: exploré el proceso de fabricación en cuarto limpio de celdas solares de silicio con unión p-n, realizando depósito de películas, grabado en seco, metalización y caracterización I-V.'
+  - 'MEMS y dispositivos microfluídicos: fabriqué voladizos de nitruro de silicio y canales microfluídicos de PDMS mediante fotolitografía, grabado químico y litografía blanda.'
+- company: Tecnológico de Monterrey (ITESM)
+  company_key: tec-de-monterrey
+  role: Mentor
+  period: Agosto 2023 - Presente
+  industry: Educación y mentoría
+  bullet_points:
+  - Brindé tutoría integral en Matemáticas del IB y a estudiantes de primer año universitario, ayudándoles a aclarar conceptos complejos, desarrollar estrategias de estudio eficaces y prepararse mejor para los exámenes.
 ---

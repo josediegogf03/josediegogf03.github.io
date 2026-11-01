@@ -1,81 +1,39 @@
 ---
 title: Esperienza
 type: homepage
-intro: 'Dall''ingegneria strutturale alla leadership tecnologica nell''IA: costruire strumenti e piattaforme che uniscono profondità tecnica e risultati di prodotto e di business.'
+intro: 'Ingegneria meccanica sul campo: guidare un team di veicolo elettrico a basso consumo, micro e nanofabbricazione al MIT.nano e mentoring di studenti al Tecnológico de Monterrey.'
 resume_downloads:
 - lang: en
   label: Inglese
 positions:
-- company: "Massachusetts Institute of Technology (MIT.nano)"
+- company: EcoVolt CCM EV Racing Team
+  company_key: ecovolt
+  role: Capitano del team, responsabile telemetria e race engineer
+  period: Ottobre 2024 - Presente
+  industry: Veicoli elettrici (Shell Eco-marathon)
+  location: Città del Messico, Messico
+  company_description: Team studentesco che sviluppa un veicolo elettrico ad alta efficienza energetica per lo Shell Eco-marathon.
+  bullet_points:
+  - Guida di un team di circa 30 membri per sviluppare un veicolo elettrico efficiente, raggiungendo ~200 km/kWh a una velocità di ~28 km/h.
+  - Contributo alla produzione e all'assemblaggio di un telaio monoscocca 100% in fibra di carbonio, ottimizzando rigidità strutturale e riduzione del peso.
+  - 'Progettazione e messa in opera di un sistema di telemetria in tempo reale per raccogliere e analizzare i dati del veicolo: GPS, accelerometro, giroscopio, sensori di corrente e tensione e sensori Hall per velocità e comandi di acceleratore/freno.'
+  - 'Co-progettazione di 4 PCB in Altium Designer: 3 PCB di telemetria (inclusa una riserva di energia) e 1 PCB di sensori Hall per il motore.'
+- company: Massachusetts Institute of Technology (MIT.nano)
+  company_key: mit-nano
   company_url: https://mitnano.mit.edu
-  role: "Studente ospite - Micro e nanofabbricazione"
-  period: "Luglio 2026 (40 ore)"
-  industry: "Micro e nanofabbricazione"
-  location: "Cambridge, USA"
-  company_description: "MIT.nano: struttura di ricerca del MIT con camera bianca e nanofabbricazione ad uso condiviso."
+  role: Studente ospite - Micro e nanofabbricazione
+  period: Luglio 2026 (40 ore)
+  industry: Micro e nanofabbricazione
+  location: Cambridge, USA
+  company_description: 'MIT.nano: struttura di ricerca del MIT con camera bianca e nanofabbricazione ad uso condiviso.'
   bullet_points:
-  - "Microfabbricazione di celle fotovoltaiche: esplorazione del processo di fabbricazione in camera bianca di celle solari al silicio a giunzione p-n, con deposizione di film, attacco a secco, metallizzazione e caratterizzazione I-V."
-  - "MEMS e dispositivi microfluidici: realizzazione di cantilever in nitruro di silicio e canali microfluidici in PDMS tramite fotolitografia, attacco chimico e litografia soft."
-- company: Fireraven
-  company_url: https://fireraven.ai
-  period: Maggio 2025 - Presente
-  industry: Sicurezza e conformità dell'IA
-  location: Montreal - Canada
-  company_description: 'FireGuard e RedRaven: applicazione delle policy in tempo reale, red teaming e conformità pronta per l''audit per agenti IA aziendali.'
-  roles:
-  - title: Head of Technology
-    period: Sett. 2026 - Presente
-    bullet_points:
-    - 'Responsabile della direzione tecnologica di FireGuard e RedRaven: architettura, roadmap e priorità di consegna con CEO e prodotto.'
-    - 'Guida della consegna end-to-end di sicurezza e conformità degli agenti IA: policy, controlli a runtime e il ciclo pentest/conformità.'
-    - Definizione dello standard ingegneristico per affidabilità, latenza, osservabilità ed evidenze pronte per l'audit, restando operativo (Python/FastAPI, Next.js/TypeScript, PostgreSQL).
-  - title: Full-Stack AI Product Engineer
-    period: Maggio 2025 - Sett. 2026
-    bullet_points:
-    - Responsabilità end-to-end delle funzionalità di sicurezza e conformità dell'IA con prodotto, sicurezza, conformità e clienti.
-    - Progettazione e implementazione di guardrail, comportamenti guidati da policy e controlli a runtime per agenti LLM (API e strumenti).
-    - Traduzione di requisiti normativi e di rischio in comportamento del prodotto, audit trail e un'adozione più sicura degli agenti in azienda.
-- company: ObraLink
-  company_url: https://obralink.com
-  role: Senior Software Developer
-  period: Agosto 2023 - Maggio 2025
-  industry: Tecnologia per le costruzioni
-  location: Remoto
-  company_description: Azienda innovativa di tecnologia per le costruzioni che sviluppa strumenti di analisi strutturale basati su IA
+  - 'Microfabbricazione di celle fotovoltaiche: esplorazione del processo di fabbricazione in camera bianca di celle solari al silicio a giunzione p-n, con deposizione di film, attacco a secco, metallizzazione e caratterizzazione I-V.'
+  - 'MEMS e dispositivi microfluidici: realizzazione di cantilever in nitruro di silicio e canali microfluidici in PDMS tramite fotolitografia, attacco chimico e litografia soft.'
+- company: Tecnológico de Monterrey (ITESM)
+  company_key: tec-de-monterrey
+  role: Mentor
+  period: Agosto 2023 - Presente
+  industry: Istruzione e mentoring
   bullet_points:
-  - Guida di iniziative tecniche legate agli obiettivi di prodotto e di business, inclusa la documentazione di innovazione per trattative di investimento superiori a 500.000 USD.
-  - Realizzazione di analisi strutturale autonoma e stima del calcestruzzo basata su ML, che hanno accorciato i flussi di lavoro ingegneristici e cambiato il modo in cui i team producevano i risultati.
-  - Trasformazione di esigenze ingegneristiche ambigue in architettura, implementazione e rilasci iterativi.
-- company: Tensacon
-  company_url: https://tensacon.cl
-  role: Vice responsabile tecnico
-  period: Marzo 2022 - Luglio 2023
-  industry: Costruzioni e prefabbricazione
-  location: Cile
-  company_description: Specializzata in soluzioni di costruzione prefabbricata e implementazione del BIM
-  bullet_points:
-  - Guida della consegna BIM e prefabbricazione su grandi progetti, tra cui impianti CODELCO e sedi dei Giochi Panamericani, migliorando qualità e produttività nei lavori Fast Track.
-  - Promozione dell'automazione dei flussi di lavoro, che ha ridotto del 40% i tempi di progettazione sui percorsi critici.
-  - Collegamento tra vincoli di cantiere e di progetto e soluzioni eseguibili per grandi costruzioni prefabbricate.
-- company: Sirve Engineering
-  company_url: https://sirve.cl
-  role: Responsabile del team di ingegneria strutturale e coordinatore R&S
-  period: Marzo 2019 - Marzo 2022
-  industry: Ingegneria strutturale
-  location: Cile
-  company_description: Studio di ingegneria specializzato in strutture residenziali e commerciali di grande altezza
-  bullet_points:
-  - Responsabile della R&S di strumenti software interni, riducendo del 75% il tempo di ingegnerizzazione iniziale e di dimensionamento delle strutture.
-  - Consegna di più complessi residenziali e commerciali di grande altezza (~20.000 m² ciascuno) con chiara responsabilità tecnica.
-  - Implementazione della modellazione parametrica per geometrie complesse, collegando la prestazione strutturale ai tempi di consegna.
-- company: Vari studi di ingegneria
-  role: Ingegnere strutturista
-  period: 2010 - 2018
-  industry: Ingegneria strutturale
-  location: Cile
-  company_description: Diversi studi di ingegneria focalizzati su strutture antisismiche e soluzioni su misura
-  bullet_points:
-  - Progettazione di strutture antisismiche
-  - Sviluppo di strumenti di calcolo personalizzati
-  - Tutoraggio di ingegneri junior
+  - Tutoraggio completo in matematica IB e per studenti del primo anno universitario, per chiarire concetti complessi, sviluppare strategie di studio efficaci e prepararsi meglio agli esami.
 ---
