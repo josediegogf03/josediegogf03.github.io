@@ -8,11 +8,14 @@ technical_groups:
   color_scheme: blue
   skills:
   - icon: cube
-    name: SolidWorks CAD/Simulation
+    name: SOLIDWORKS
     logo: /images/logos/solidworks.png
   - icon: cube
     name: OnShape
     logo: /images/logos/onshape.png
+  - icon: microchip
+    name: Altium Designer
+    logo: /images/logos/altium.svg
   - icon: cogs
     name: Fusion CAM
     logo: /images/logos/fusion360.svg
@@ -25,6 +28,7 @@ technical_groups:
 - title: Programmazione
   icon: code
   color_scheme: green
+  per_row: 3
   skills:
   - icon: python
     name: Python

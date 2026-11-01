@@ -21,7 +21,7 @@
             <!-- Skills flex layout with icons and text below -->
             <div class="flex flex-wrap gap-8 justify-center">
               {{ range $group.skills }}
-              <div class="flex flex-col items-center text-center">
+              <div class="flex flex-col items-center text-center"{{ if $group.per_row }} style="width: calc((100% - {{ sub $group.per_row 1 }} * 2rem) / {{ $group.per_row }});"{{ end }}>
                 {{ if .logo }}
                   <div class="h-16 flex items-center justify-center mb-1">
                     <img alt="{{ .name }}"
