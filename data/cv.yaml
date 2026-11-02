@@ -10,12 +10,11 @@ education:
   - Merit Scholarship (60%)
   - 'GPA: 96/100'
 experience:
-- role: Team Co-captain & Telemetry Leader
+- role: Team Co-captain, Telemetry Leader & Race Engineer
   org: EcoVolt CCM EV Racing Team (Shell Eco-Marathon)
   dates: September 2024 – Ongoing
   place: Mexico City, MX
   bullets:
-  - 'Progression in the team: Electronics member (Sep 2024), Telemetry co-manager (Jun 2025), Race engineer and race analytics manager (Sep 2025), Team co-captain and telemetry leader (May 2026).'
   - Led a ∼30-member team focused on developing an energy efficient EV, achieving ∼200 km/kWh at a speed of ∼28 km/h.
   - Contributed to the manufacturing and assembly of a 100% carbon fiber monocoque chassis, optimizing structural rigidity and overall weight reduction.
   - 'Engineered and deployed a real-time telemetry system to collect and analyze vehicle data, including: GPS, Accelerometer, Gyroscope, Current & Voltage Sensor, Hall-Sensors for speed and throttle/brake inputs.'
@@ -27,11 +26,6 @@ experience:
   bullets:
   - 'Photovoltaic Cell Microfabrication: Explored the cleanroom fabrication process for p-n junction silicon solar cells, performing film deposition, dry etching, metallization, and I-V characterization.'
   - 'MEMS & Microfluidic Devices: Fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography.'
-- role: Active member
-  org: Escudería Borregos CCM
-  dates: September 2024 – December 2025
-  bullets:
-  - Helped develop and improve the team's race car, working on braking, body design, and electronics.
 publications:
 - title: Real-Time Telemetry and Computational Intelligence Pipeline for Energy-Efficient Driving of an Electric Eco-Marathon Vehicle
   venue: IEEE SAIBOT 2026 (Latin American School on Computational Intelligence and Robotics) – submitted
