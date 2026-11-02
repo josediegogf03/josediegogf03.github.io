@@ -14,7 +14,7 @@
       </div>
     </div>
 
-    {{ range $sec := slice (dict "key" "education" "icon" "graduation-cap" "label" $l.education) (dict "key" "experience" "icon" "briefcase" "label" $l.experience) (dict "key" "publications" "icon" "book-open" "label" $l.publications) }}
+    {{ range $sec := slice (dict "key" "education" "icon" "graduation-cap" "label" $l.education) (dict "key" "experience" "icon" "briefcase" "label" $l.experience) (dict "key" "publications" "icon" "book-open" "label" $l.publications) (dict "key" "volunteering" "icon" "hands-helping" "label" $l.volunteering) }}
     <h2 class="text-2xl font-bold mt-10 mb-4 font-heading text-text-primary dark:text-text-primary"><i class="fas fa-{{ $sec.icon }} mr-3 text-primary dark:text-white"></i>{{ $sec.label }}</h2>
     <div class="space-y-4">
       {{ range index $cv $sec.key }}
