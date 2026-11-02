@@ -6,7 +6,7 @@ intro: '**Mechanical Engineering student** at **Tecnológico de Monterrey** (Mex
 study: In July 2026 I was a **Visiting Student at MIT.nano** (40 hours), working in the cleanroom on photovoltaic cell microfabrication, silicon nitride cantilevers and PDMS microfluidic devices. At the Tec I hold a **60% merit scholarship** and a **96/100 GPA**.
 passion_title: What I focus on
 passion_text: 'I like to take a vehicle from **mechanical design to data**: manufacturing and assembly of a carbon-fiber monocoque, **real-time telemetry** (GPS, accelerometer, gyroscope, current and voltage, Hall sensors) and the PCBs behind it (3 telemetry boards and a Hall-sensor board for the motor, designed in Altium). That work earned the **Data & Telemetry Award** at Shell Eco-Marathon Americas (winner in 2025, runner-up in 2026), an **Honorable Mention** at the Altair Global Student Contest (2025), and a paper submitted to **IEEE SAIBOT 2026**.'
-mix: 'I combine **hands-on manufacturing** (3D printing, lathe, milling, CNC, welding, SMD/THT soldering) with **simulation and software** (SolidWorks Simulation, MATLAB/Simulink, Python, C/C++). I also enjoy teaching: since 2023 I have been a **teacher assistant and mentor** at the Tec, supporting IB mathematics and first-year university students.'
+mix: I combine **hands-on manufacturing** (3D printing, lathe, milling, CNC, welding, SMD/THT soldering) with **simulation and software** (SolidWorks Simulation, MATLAB/Simulink, Python, C/C++).
 personal: I am certified in **SolidWorks** (CSWA, CSWA-Simulation, CSWP) and **Altium** (PCB Basic Design). I speak Spanish (native), English, and French, and I am learning German and Italian.
 quickfacts:
 - icon: briefcase

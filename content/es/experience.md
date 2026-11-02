@@ -1,7 +1,7 @@
 ---
 title: Experiencia
 type: homepage
-intro: 'Ingeniería mecánica en la práctica: liderar un equipo de vehículo eléctrico eficiente, microfabricación y nanofabricación en MIT.nano y mentoría a estudiantes en el Tecnológico de Monterrey.'
+intro: 'Ingeniería mecánica en la práctica: liderar un equipo de vehículo eléctrico eficiente y microfabricación y nanofabricación en MIT.nano.'
 resume_downloads:
 - lang: en
   label: English
@@ -30,13 +30,6 @@ positions:
   bullet_points:
   - 'Microfabricación de celdas fotovoltaicas: exploré el proceso de fabricación en cuarto limpio de celdas solares de silicio con unión p-n, realizando depósito de películas, grabado en seco, metalización y caracterización I-V.'
   - 'MEMS y dispositivos microfluídicos: fabriqué voladizos de nitruro de silicio y canales microfluídicos de PDMS mediante fotolitografía, grabado químico y litografía blanda.'
-- company: Tecnológico de Monterrey (ITESM)
-  company_key: tec-de-monterrey
-  role: Asistente de profesor y mentoría
-  period: Agosto 2023 - Presente
-  industry: Educación y mentoría
-  bullet_points:
-  - Brindé tutoría integral en Matemáticas del IB y a estudiantes de primer año universitario, ayudándoles a aclarar conceptos complejos, desarrollar estrategias de estudio eficaces y prepararse mejor para los exámenes.
 - company: Escudería Borregos CCM
   company_key: borregos-ccm
   role: Miembro activo

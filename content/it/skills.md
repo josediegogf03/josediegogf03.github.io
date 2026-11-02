@@ -22,8 +22,8 @@ domains:
   title: Micro e nanofabbricazione
   description: 'Lavoro in camera bianca al MIT.nano: deposizione di film, attacco a secco, fotolitografia, litografia soft, caratterizzazione I-V.'
 - icon: users
-  title: Leadership e didattica
-  description: Co-capitano di un team di ingegneria di 30 membri; assistente didattico e mentor al Tec.
+  title: Leadership
+  description: Co-capitano di un team di ingegneria di 30 membri.
 - icon: globe
   title: Lingue
   description: Spagnolo (madrelingua), inglese (B2/C1), francese (B1/B2), tedesco (A2), italiano (A2).

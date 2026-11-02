@@ -1,7 +1,7 @@
 ---
 title: Expérience
 type: homepage
-intro: 'L''ingénierie mécanique en pratique : diriger une équipe de véhicule électrique économe en énergie, microfabrication et nanofabrication au MIT.nano, et mentorat d''étudiants au Tecnológico de Monterrey.'
+intro: 'L''ingénierie mécanique en pratique : diriger une équipe de véhicule électrique économe en énergie, microfabrication et nanofabrication au MIT.nano.'
 resume_downloads:
 - lang: en
   label: English
@@ -30,13 +30,6 @@ positions:
   bullet_points:
   - 'Microfabrication de cellules photovoltaïques : exploration du procédé de fabrication en salle blanche de cellules solaires en silicium à jonction p-n, avec dépôt de films, gravure sèche, métallisation et caractérisation I-V.'
   - 'MEMS et dispositifs microfluidiques : fabrication de micro-leviers en nitrure de silicium et de canaux microfluidiques en PDMS par photolithographie, gravure chimique et lithographie douce.'
-- company: Tecnológico de Monterrey (ITESM)
-  company_key: tec-de-monterrey
-  role: Assistant d'enseignement et mentorat
-  period: Août 2023 - Présent
-  industry: Éducation et mentorat
-  bullet_points:
-  - Tutorat complet en mathématiques du Baccalauréat International et pour des étudiants de première année, afin de clarifier des concepts complexes, développer des stratégies d'étude efficaces et mieux préparer les examens.
 - company: Escudería Borregos CCM
   company_key: borregos-ccm
   role: Membre actif

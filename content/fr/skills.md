@@ -22,8 +22,8 @@ domains:
   title: Micro et nanofabrication
   description: 'Travail en salle blanche au MIT.nano : dépôt de films, gravure sèche, photolithographie, lithographie douce, caractérisation I-V.'
 - icon: users
-  title: Leadership et enseignement
-  description: Co-capitaine d'une équipe d'ingénierie de 30 membres ; assistant d'enseignement et mentor au Tec.
+  title: Leadership
+  description: Co-capitaine d'une équipe d'ingénierie de 30 membres.
 - icon: globe
   title: Langues
   description: Espagnol (langue maternelle), anglais (B2/C1), français (B1/B2), allemand (A2), italien (A2).

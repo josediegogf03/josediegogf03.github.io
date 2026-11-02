@@ -22,8 +22,8 @@ domains:
   title: Mikro- & Nanofertigung
   description: 'Reinraumarbeit am MIT.nano: Schichtabscheidung, Trockenätzen, Photolithographie, Soft-Lithographie, I-U-Charakterisierung.'
 - icon: users
-  title: Führung & Lehre
-  description: Co-Kapitän eines Ingenieurteams mit 30 Mitgliedern; Lehrassistent und Mentor am Tec.
+  title: Führung
+  description: Co-Kapitän eines Ingenieurteams mit 30 Mitgliedern.
 - icon: globe
   title: Sprachen
   description: Spanisch (Muttersprache), Englisch (B2/C1), Französisch (B1/B2), Deutsch (A2), Italienisch (A2).

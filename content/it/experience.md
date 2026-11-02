@@ -1,7 +1,7 @@
 ---
 title: Esperienza
 type: homepage
-intro: 'Ingegneria meccanica sul campo: guidare un team di veicolo elettrico a basso consumo, micro e nanofabbricazione al MIT.nano e mentoring di studenti al Tecnológico de Monterrey.'
+intro: 'Ingegneria meccanica sul campo: guidare un team di veicolo elettrico a basso consumo e micro e nanofabbricazione al MIT.nano.'
 resume_downloads:
 - lang: en
   label: Inglese
@@ -30,13 +30,6 @@ positions:
   bullet_points:
   - 'Microfabbricazione di celle fotovoltaiche: esplorazione del processo di fabbricazione in camera bianca di celle solari al silicio a giunzione p-n, con deposizione di film, attacco a secco, metallizzazione e caratterizzazione I-V.'
   - 'MEMS e dispositivi microfluidici: realizzazione di cantilever in nitruro di silicio e canali microfluidici in PDMS tramite fotolitografia, attacco chimico e litografia soft.'
-- company: Tecnológico de Monterrey (ITESM)
-  company_key: tec-de-monterrey
-  role: Assistente didattico e mentoring
-  period: Agosto 2023 - Presente
-  industry: Istruzione e mentoring
-  bullet_points:
-  - Tutoraggio completo in matematica IB e per studenti del primo anno universitario, per chiarire concetti complessi, sviluppare strategie di studio efficaci e prepararsi meglio agli esami.
 - company: Escudería Borregos CCM
   company_key: borregos-ccm
   role: Membro attivo

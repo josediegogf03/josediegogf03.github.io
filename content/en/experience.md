@@ -1,7 +1,7 @@
 ---
 title: Experience
 type: homepage
-intro: 'Mechanical engineering in practice: leading an energy-efficient electric vehicle team, hands-on micro and nano fabrication at MIT.nano, and mentoring students at Tecnológico de Monterrey.'
+intro: 'Mechanical engineering in practice: leading an energy-efficient electric vehicle team and hands-on micro and nano fabrication at MIT.nano.'
 resume_downloads:
 - lang: en
   label: English
@@ -30,13 +30,6 @@ positions:
   bullet_points:
   - 'Photovoltaic Cell Microfabrication: explored the cleanroom fabrication process for p-n junction silicon solar cells, performing film deposition, dry etching, metallization, and I-V characterization.'
   - 'MEMS & Microfluidic Devices: fabricated silicon nitride cantilevers and PDMS microfluidic channels using photolithography, chemical etching, and soft lithography.'
-- company: Tecnológico de Monterrey (ITESM)
-  company_key: tec-de-monterrey
-  role: Teacher Assistant & Mentoring
-  period: August 2023 - Present
-  industry: Education & Mentoring
-  bullet_points:
-  - Provided comprehensive tutoring for IB Mathematics and first-year university students, helping them clarify complex concepts, develop effective study strategies, and improve exam readiness.
 - company: Escudería Borregos CCM
   company_key: borregos-ccm
   role: Active member

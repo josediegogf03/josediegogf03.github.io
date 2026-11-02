@@ -22,8 +22,8 @@ domains:
   title: Micro & Nano Fabrication
   description: 'Cleanroom work at MIT.nano: film deposition, dry etching, photolithography, soft lithography, I-V characterization.'
 - icon: users
-  title: Leadership & Teaching
-  description: Team Co-captain of a 30-member engineering team; teacher assistant and mentor at the Tec.
+  title: Leadership
+  description: Team Co-captain of a 30-member engineering team.
 - icon: globe
   title: Languages
   description: Spanish (native), English (B2/C1), French (B1/B2), German (A2), Italian (A2).

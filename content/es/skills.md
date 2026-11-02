@@ -22,8 +22,8 @@ domains:
   title: Micro y nanofabricación
   description: 'Trabajo en cuarto limpio en MIT.nano: depósito de películas, grabado en seco, fotolitografía, litografía blanda, caracterización I-V.'
 - icon: users
-  title: Liderazgo y docencia
-  description: Co-capitán de un equipo de ingeniería de 30 integrantes; asistente de profesor y mentor en el Tec.
+  title: Liderazgo
+  description: Co-capitán de un equipo de ingeniería de 30 integrantes.
 - icon: globe
   title: Idiomas
   description: Español (nativo), inglés (B2/C1), francés (B1/B2), alemán (A2), italiano (A2).

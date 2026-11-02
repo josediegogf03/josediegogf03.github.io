@@ -1,7 +1,7 @@
 ---
 title: Erfahrung
 type: homepage
-intro: 'Maschinenbau in der Praxis: Leitung eines Teams für ein energieeffizientes Elektrofahrzeug, praktische Mikro- und Nanofertigung am MIT.nano und Mentoring von Studierenden am Tecnológico de Monterrey.'
+intro: 'Maschinenbau in der Praxis: Leitung eines Teams für ein energieeffizientes Elektrofahrzeug und praktische Mikro- und Nanofertigung am MIT.nano.'
 resume_downloads:
 - lang: en
   label: Englisch
@@ -30,13 +30,6 @@ positions:
   bullet_points:
   - 'Mikrofertigung von Photovoltaikzellen: Kennenlernen des Reinraum-Fertigungsprozesses für Silizium-Solarzellen mit p-n-Übergang, mit Schichtabscheidung, Trockenätzen, Metallisierung und I-U-Charakterisierung.'
   - 'MEMS & mikrofluidische Bauelemente: Herstellung von Siliziumnitrid-Cantilevern und mikrofluidischen PDMS-Kanälen mittels Photolithographie, chemischem Ätzen und Soft-Lithographie.'
-- company: Tecnológico de Monterrey (ITESM)
-  company_key: tec-de-monterrey
-  role: Lehrassistent & Mentoring
-  period: August 2023 - heute
-  industry: Bildung & Mentoring
-  bullet_points:
-  - 'Umfassende Nachhilfe in IB-Mathematik und für Studierende im ersten Studienjahr: Klärung komplexer Konzepte, Entwicklung effektiver Lernstrategien und bessere Prüfungsvorbereitung.'
 - company: Escudería Borregos CCM
   company_key: borregos-ccm
   role: Aktives Mitglied
