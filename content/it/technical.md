@@ -26,6 +26,12 @@ technical_groups:
   - icon: wave-square
     name: Simulink
     logo: /images/logos/simulink.svg
+  - icon: wind
+    name: ANSYS Fluent
+    logo: /images/logos/ansys.svg
+  - icon: cube
+    name: Siemens NX
+    logo: /images/logos/siemens-nx.svg
 - title: Programmazione
   icon: code
   color_scheme: green
