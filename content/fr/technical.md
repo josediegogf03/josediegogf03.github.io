@@ -31,7 +31,7 @@ technical_groups:
     logo: /images/logos/ansys.svg
   - icon: cube
     name: Siemens NX
-    logo: /images/logos/siemens-nx.svg
+    logo: /images/logos/siemens-nx-official.svg
 - title: Programmation
   icon: code
   color_scheme: green
